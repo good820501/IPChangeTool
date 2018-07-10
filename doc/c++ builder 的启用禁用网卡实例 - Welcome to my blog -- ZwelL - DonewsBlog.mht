@@ -1,0 +1,2836 @@
+From: <ÓÉ Microsoft Internet Explorer 5 ±£´æ>
+Subject: =?gb2312?B?YysrIGJ1aWxkZXIgtcTG9NPDvfvTw834v6jKtcD9IC0gV2VsY29tZQ==?=
+	=?gb2312?B?IHRvIG15IGJsb2cgLS0gWndlbEwgLSBEb25ld3NCbG9n?=
+Date: Mon, 24 Nov 2008 22:12:34 +0800
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----=_NextPart_000_0028_01C94E81.C0837C40"
+X-MimeOLE: Produced By Microsoft MimeOLE V6.00.2900.3350
+
+This is a multi-part message in MIME format.
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/zwell/archive/2004/08/05/59978.aspx
+
+=EF=BB=BF<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD><TITLE>c++ builder =
+=E7=9A=84=E5=90=AF=E7=94=A8=E7=A6=81=E7=94=A8=E7=BD=91=E5=8D=A1=E5=AE=9E=E4=
+=BE=8B - Welcome to my blog -- ZwelL - DonewsBlog</TITLE>
+<META content=3D"MSHTML 6.00.2900.3429" name=3DGENERATOR>
+<META http-equiv=3DContent-Type content=3D"text/html; =
+charset=3Dutf-8"><LINK media=3Dall=20
+href=3D"http://blog.donews.com/skins/AnotherEon001/style.css" =
+type=3Dtext/css=20
+rel=3Dstylesheet><LINK media=3Dprint=20
+href=3D"http://blog.donews.com/skins/AnotherEon001/print.css" =
+type=3Dtext/css=20
+rel=3Dstylesheet><LINK title=3DRSS =
+href=3D"http://blog.donews.com/zwell/rss.aspx"=20
+type=3Dapplication/rss+xml rel=3Dalternate></HEAD>
+<BODY>
+<SCRIPT language=3Djavascript =
+src=3D"http://blog.donews.com/js.js"></SCRIPT>
+
+<SCRIPT language=3Djavascript>
+	<!--
+		function getObject(objectId)
+		{
+			if(document.getElementById)
+			{
+				return document.getElementById(objectId)
+			}
+			else if(document.all&&document.all(objectId))
+			{
+				return document.all(objectId)
+			}
+			else
+			{
+				return false
+			}
+		}
+	=09
+		function hideObject(objectId)
+		{
+			var obj=3DgetObject(objectId);
+					=09
+			if(obj&&obj.style)
+			{
+				obj.style.display=3D"none";				=09
+				return true
+			}
+			return false
+		}
+	=09
+		function showObject(objectId)
+		{
+			var obj=3DgetObject(objectId);
+			if(obj&&obj.style)
+			{
+				obj.style.display=3D"";
+				return true
+			}
+			return false
+		}
+	=09
+		function hideComment(){
+			hideObject("commentForm");
+			hideObject("commentform");
+			return;
+		}
+	=09
+		function showComment(){
+			return;
+		}
+	=09
+	=09
+	=09
+		function setCookie(name,value)
+{
+ var Days =3D 30; //=E6=AD=A4 cookie =
+=E5=B0=86=E8=A2=AB=E4=BF=9D=E5=AD=98 30 =E5=A4=A9
+ var exp  =3D new Date();    //new Date("December 31, 9998");
+ exp.setTime(exp.getTime() + Days*24*60*60*1000);
+ document.cookie =3D name + "=3D"+ escape(value) +";expires=3D"+ =
+exp.toGMTString();
+}
+
+function getCookie(name)
+{
+ var arr =3D document.cookie.match(new RegExp("(^| =
+)"+name+"=3D([^;]*)(;|$)"));
+ if(arr !=3D null) return unescape(arr[2]); return null;
+}
+
+function setClientCookie(){
+	var chkRemember=3DgetObject("PostComment.ascx_chkRemember");
+	if (chkRemember=3Dnull){
+	return;
+	}
+
+	if (chkRemember=3Dtrue){
+		var textName =3DgetObject("PostComment.ascx_tbName");
+		var textUrl=3DgetObject("PostComment.ascx_tbUrl");
+=09
+		if (textName!=3Dnull){
+			setCookie("Name",textName.value);
+		}
+=09
+		if(textUrl!=3Dnull){
+			setCookie("Url",textUrl.value);
+		}
+	}=09
+}
+
+function getClientCookie(){
+
+	var cookieName=3DgetCookie("Name");
+	var cookieUrl=3DgetCookie("Url");
+=09
+	if (cookieName!=3Dnull){
+	var textName =3DgetObject("PostComment.ascx_tbName");
+	textName.value=3DcookieName;
+	}
+=09
+	if (cookieUrl!=3Dnull){
+	var textUrl=3DgetObject("PostComment.ascx_tbUrl");
+	textUrl.value=3DcookieUrl;=09
+	}
+}
+	=09
+		=09
+	//-->
+=09
+	</SCRIPT>
+
+<FORM id=3DForm1 name=3DForm1 action=3D59978.aspx method=3Dpost><INPUT =
+type=3Dhidden=20
+name=3D__VIEWSTATE>
+<SCRIPT src=3D"http://blog.donews.com/ajaxpro/prototype.ashx"=20
+type=3Dtext/javascript></SCRIPT>
+
+<SCRIPT src=3D"http://blog.donews.com/ajaxpro/core.ashx"=20
+type=3Dtext/javascript></SCRIPT>
+
+<SCRIPT src=3D"http://blog.donews.com/ajaxpro/converter.ashx"=20
+type=3Dtext/javascript></SCRIPT>
+
+<SCRIPT=20
+src=3D"http://blog.donews.com/ajaxpro/Dottext.Web.UI.Controls.RecentComme=
+nts,Dottext.Web.ashx"=20
+type=3Dtext/javascript></SCRIPT>
+
+<SCRIPT=20
+src=3D"http://blog.donews.com/ajaxpro/Dottext.Web.UI.Controls.Comments,Do=
+ttext.Web.ashx"=20
+type=3Dtext/javascript></SCRIPT>
+=20
+<TABLE class=3DFramework cellSpacing=3D0 cellPadding=3D0 width=3D"100%">
+  <TBODY>
+  <TR>
+    <TD colSpan=3D2>
+      <DIV id=3Dtop>
+      <TABLE cellSpacing=3D0 cellPadding=3D8 width=3D"100%">
+        <TBODY>
+        <TR>
+          <TD>
+            <H1><A class=3Dheadermaintitle id=3DHeader1_HeaderTitle=20
+            href=3D"http://blog.donews.com/zwell/">Welcome to my blog -- =
+
+            ZwelL</A></H1>Do my best... </TD></TR></TBODY></TABLE></DIV>
+      <DIV id=3Dsub>
+      <DIV class=3DBlogStats>=E6=96=87=E7=AB=A0 - 257,=E6=94=B6=E8=97=8F =
+- , =E8=AF=84=E8=AE=BA - 554, trackbacks -=20
+    20</DIV></DIV></TD></TR>
+  <TR>
+    <TD id=3DLeftCell rowSpan=3D2>
+      <DIV id=3Dleftmenu>
+      <H3>=E5=AF=BC=E8=88=AA</H3>
+      <UL>
+        <LI><A id=3DMyLinks1_HomeLink =
+title=3D=E5=88=B0=E8=81=9A=E5=90=88=E7=AB=99=E7=82=B9=20
+        href=3D"http://blog.donews.com/">DonewsBlog</A>=20
+        <LI><A href=3D"http://www.donews.com/" =
+target=3D_blank>Donews=E9=A6=96=E9=A1=B5</A>=20
+        <LI><A href=3D"http://home.donews.com/" =
+target=3D_blank>Donews=E7=A4=BE=E5=8C=BA</A>=20
+        <LI><A href=3D"http://mail.donews.com/" =
+target=3D_blank>Donews=E9=82=AE=E7=AE=B1</A>=20
+        <LI><A id=3DMyLinks1_PersonalHome title=3D"=E8=AE=BF=E9=97=AE =
+Welcome to my blog -- ZwelL"=20
+        =
+href=3D"http://blog.donews.com/zwell/">=E6=88=91=E7=9A=84=E9=A6=96=E9=A1=B5=
+</A>=20
+        <LI><A id=3DMyLinks1_ContactLink accessKey=3D9=20
+        =
+href=3D"http://blog.donews.com/zwell/contact.aspx">=E8=81=94=E7=B3=BB=E4=BD=
+=9C=E8=80=85</A>=20
+        <LI><A id=3DMyLinks1_XMLLink=20
+        href=3D"http://blog.donews.com/zwell/Rss.aspx"><IMG alt=3D"RSS =
+2.0 Feed"=20
+        src=3D"http://blog.donews.com/images/xml.gif" border=3D0></A>=20
+        <LI><A id=3DMyLinks1_Admin=20
+        =
+href=3D"http://writeblog.donews.com/editposts.aspx">=E7=99=BB=E5=BD=95</A=
+> </LI></UL>
+      <H3>=E5=85=AC=E5=91=8A</H3>
+      <CENTER><IMG=20
+      =
+src=3D"http://www.donews.net/images/www_donews_net/zwell/6799/r_zwell.jpg=
+"><BR><!--<a href=3D"http://suei8423.ys168.com">
+=E4=B8=B4=E6=97=B6=E7=A9=BA=E9=97=B4</a>
+<br>--><A href=3D"http://www.nosec.org/">nosec </A><BR><A=20
+      =
+href=3D"http://finance.sina.com.cn/110/2004-06-18/378.html">=E5=8D=8E=E4=B8=
+=BA=E4=B8=93=E9=A2=98 </A><BR><A=20
+      =
+href=3D"http://www.donews.net/zwell/archive/2004/09/02/86209.aspx">=E5=B8=
+=B8=E7=94=A8=E5=87=BD=E6=95=B0=E5=BA=93</A><BR><!--<a =
+href=3D"http://www.cybersyndrome.net/pld.html">=E4=BB=A3=E7=90=86=E6=9C=8D=
+=E5=8A=A1=E5=99=A8</a>
+<br>--><A =
+href=3D"http://tech.tom.com/news/market.html">=E4=B8=9A=E7=95=8C=E8=B5=84=
+=E8=AE=AF</A> <BR><A=20
+      =
+href=3D"http://www.donews.net/zwell/archive/2004/08/01/56565.aspx">=E7=94=
+=B5=E5=AD=90=E4=B9=A6=E5=BA=93</A>=20
+      <BR><!--<a =
+href=3D"http://www.ctyme.com/intr/int.htm">=E4=B8=AD=E6=96=AD=E8=A1=A8=E6=
+=9F=A5=E8=AF=A2</a>
+<a href=3D"http://www.metasploit.com/users/opcode/syscalls.html">Windows =
+System Call Table
+</a>--><A =
+href=3D"http://news.chinabyte.com/tags/5498967/his.shtml">=E8=B4=A2=E5=AF=
+=8C=E6=96=B0=E9=97=BB=20
+      </A></CENTER>
+      <H3 class=3Dlisttitle>=E6=96=87=E7=AB=A0</H3>
+      <UL class=3Dlist>
+        <LI class=3Dlistitem><A=20
+        =
+href=3D"http://blog.donews.com/zwell/category/7288.aspx">Diary</A><A=20
+        =
+href=3D"http://blog.donews.com/zwell/category/7288.aspx/rss">(RSS)</A>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://blog.donews.com/zwell/category/7348.aspx">Program =
+
+        Tips</A><A=20
+        =
+href=3D"http://blog.donews.com/zwell/category/7348.aspx/rss">(RSS)</A></L=
+I></UL>
+      <H3 class=3Dlisttitle>=E6=94=B6=E8=97=8F</H3>
+      <UL class=3Dlist>
+        <LI class=3Dlistitem><A=20
+        =
+href=3D"http://blog.donews.com/zwell/category/7222.aspx">Exploit</A>
+        <LI class=3Dlistitem><A=20
+        =
+href=3D"http://blog.donews.com/zwell/category/8018.aspx">Linux</A>
+        <LI class=3Dlistitem><A=20
+        =
+href=3D"http://blog.donews.com/zwell/category/7220.aspx">Other</A>
+        <LI class=3Dlistitem><A=20
+        =
+href=3D"http://blog.donews.com/zwell/category/6802.aspx">Program</A>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://blog.donews.com/zwell/category/7292.aspx">Web=20
+        Design</A></LI></UL>
+      <H3 class=3Dlisttitle>=E7=9B=B8=E5=86=8C</H3><!--category title-->
+      <UL class=3Dlist>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://blog.donews.com/zwell/Gallery/6799.aspx">My=20
+      Photo</A></LI></UL>
+      <H3 class=3Dlisttitle>Program's Link</H3>
+      <UL class=3Dlist>
+        <LI class=3Dlistitem><A href=3D"http://www.alexfedotov.com/"=20
+        target=3D_blank>alexfedotov</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://www.chapeaux-noirs.org/win/"=20
+        target=3D_blank>chapeaux</A>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://www.codebreakers-journal.com/index.php"=20
+        target=3D_blank>codebreakers-journal</A>
+        <LI class=3Dlistitem><A href=3D"http://www.codeguru.com/"=20
+        target=3D_blank>codeguru</A>
+        <LI class=3Dlistitem><A href=3D"http://www.codeproject.com/"=20
+        target=3D_blank>codeproject</A>
+        <LI class=3Dlistitem><A href=3D"http://www.codersource.net/"=20
+        target=3D_blank>codersource</A>
+        <LI class=3Dlistitem><A href=3D"http://www.csdn.net/" =
+target=3D_blank>csdn</A>
+        <LI class=3Dlistitem><A href=3D"http://www.debuginfo.com/"=20
+        target=3D_blank>debuginfo</A>
+        <LI class=3Dlistitem><A href=3D"http://www.driverdevelop.com/"=20
+        target=3D_blank>driverdevelop</A>
+        <LI class=3Dlistitem><A href=3D"http://www.insidewindows.info/"=20
+        target=3D_blank>insidewindows</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://jiurl.cosoft.org.cn/jiurl"=20
+        target=3D_blank>jiurl</A>
+        <LI class=3Dlistitem><A href=3D"http://www.catch22.net/source/"=20
+        target=3D_blank>kernel source</A>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://www.microsoft.com/china/msdn/default.mspx"=20
+        target=3D_blank>MSDN=E4=B8=AD=E6=96=87</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://www.i.u-tokyo.ac.jp/ss/msprojects/"=20
+        target=3D_blank>msprojects</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://www.nondot.org/sabre/os/articles"=20
+        target=3D_blank>os</A>
+        <LI class=3Dlistitem><A href=3D"http://www.osronline.com/"=20
+        target=3D_blank>osronline</A>
+        <LI class=3Dlistitem><A href=3D"http://www.reteam.org/"=20
+        target=3D_blank>reteam</A>
+        <LI class=3Dlistitem><A href=3D"http://sourceforge.net/"=20
+        target=3D_blank>sourceforge</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://www.yates2k.net/syscode.htm"=20
+        target=3D_blank>syscode</A>
+        <LI class=3Dlistitem><A href=3D"http://www.sysinternals.com/"=20
+        target=3D_blank>sysinternals</A>
+        <LI class=3Dlistitem><A href=3D"http://tangentsoft.net/wskfaq/"=20
+        target=3D_blank>tangentsoft</A>
+        <LI class=3Dlistitem><A href=3D"http://www.vccode.com/"=20
+        target=3D_blank>vccode</A>
+        <LI class=3Dlistitem><A href=3D"http://www.vckbase.com/"=20
+        target=3D_blank>vckbase</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://www.geocities.jp/webcrazyjp"=20
+        target=3D_blank>webcrazy</A>
+        <LI class=3Dlistitem><A href=3D"http://win32.mvps.org/"=20
+        target=3D_blank>win32.mvps</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://my.execpc.com/~geezer/osd/index.htm"=20
+        target=3D_blank>Write OS</A>
+        <LI class=3Dlistitem><A href=3D"http://www.xemean.net/"=20
+        target=3D_blank>xemean</A>
+        <LI class=3Dlistitem><A href=3D"http://www.cnpaf.net/"=20
+        =
+target=3D_blank>=E5=8D=8F=E8=AE=AE=E5=88=86=E6=9E=90=E7=BD=91</A></LI></U=
+L>
+      <H3 class=3Dlisttitle>Security Link</H3>
+      <UL class=3Dlist>
+        <LI class=3Dlistitem><A href=3D"http://www.frsirt.com/"=20
+        target=3D_blank>frsirt</A>
+        <LI class=3Dlistitem><A href=3D"http://www.guninski.com/"=20
+        target=3D_blank>guninski</A>
+        <LI class=3Dlistitem><A href=3D"http://www.hick.org/" =
+target=3D_blank>hick</A>
+        <LI class=3Dlistitem><A href=3D"http://www.honeynet.org/"=20
+        target=3D_blank>honeynet</A>
+        <LI class=3Dlistitem><A href=3D"http://www.honeynet.org.cn/"=20
+        target=3D_blank>honeynet_cn</A>
+        <LI class=3Dlistitem><A=20
+        =
+href=3D"http://www.idefense.com/application/poi/display?type=3Dvulnerabil=
+ities"=20
+        target=3D_blank>idefense</A>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://www.immunitysec.com/resources-advisories.shtml"=20
+        target=3D_blank>immunitysec</A>
+        <LI class=3Dlistitem><A href=3D"http://www.metasploit.com/"=20
+        target=3D_blank>metasploit</A>
+        <LI class=3Dlistitem><A href=3D"http://neworder.box.sk/"=20
+        target=3D_self>neworder.box.sk</A>
+        <LI class=3Dlistitem><A href=3D"http://www.nsfocus.net/"=20
+        target=3D_blank>nsfocus</A>
+        <LI class=3Dlistitem><A href=3D"http://www.openrce.org/"=20
+        target=3D_blank>openrce</A>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://www.red-database-security.com/home.html"=20
+        target=3D_blank>oracle security</A>
+        <LI class=3Dlistitem><A href=3D"http://packetstormsecurity.nl/"=20
+        target=3D_blank>packetstorm</A>
+        <LI class=3Dlistitem><A href=3D"http://www.phrack.org/"=20
+        target=3D_blank>phrack</A>
+        <LI class=3Dlistitem><A href=3D"http://www.retcvc.com/"=20
+        target=3D_blank>retcvc</A>
+        <LI class=3Dlistitem><A href=3D"http://www.rootkit.com/"=20
+        target=3D_blank>RootKit</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://www.securiteam.com/exploits/"=20
+        target=3D_blank>securiteam</A>
+        <LI class=3Dlistitem><A href=3D"http://www.securityfocus.com/"=20
+        target=3D_blank>securityfocus</A>
+        <LI class=3Dlistitem><A href=3D"http://www.vx.netlux.org/" =
+target=3D_blank>VX=20
+        Heavens</A>
+        <LI class=3Dlistitem><A href=3D"http://www.xfocus.net/"=20
+        target=3D_blank>Xfocus</A></LI></UL>
+      <H3 class=3Dlisttitle>Study</H3>
+      <UL class=3Dlist>
+        <LI class=3Dlistitem><A href=3D"http://www.netexpert.cn/"=20
+        target=3D_blank>netexpert</A>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://www.systemexperts.com/literature.html"=20
+        target=3D_blank>systemexperts</A>
+        <LI class=3Dlistitem><A =
+href=3D"http://www.voip-info.org/tiki-index.php"=20
+        target=3D_blank>voip-info</A></LI></UL>
+      <H3 class=3Dlisttitle>worship</H3>
+      <UL class=3Dlist>
+        <LI class=3Dlistitem><A=20
+        href=3D"http://www.qjclub.net/blog/user1/497/index.html"=20
+        target=3D_blank>flashsky</A>
+        <LI class=3Dlistitem><A href=3D"http://www.opencjk.org/~scz/"=20
+        target=3D_blank>scz</A></LI></UL>
+      <H3 class=3Dlisttitle>=E5=AD=98=E6=A1=A3</H3>
+      <UL class=3Dlist>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2007/03.aspx">2007=E5=B9=B40=
+3=E6=9C=88(1)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/12.aspx">2006=E5=B9=B41=
+2=E6=9C=88(1)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/11.aspx">2006=E5=B9=B41=
+1=E6=9C=88(1)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/10.aspx">2006=E5=B9=B41=
+0=E6=9C=88(1)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/09.aspx">2006=E5=B9=B40=
+9=E6=9C=88(2)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/08.aspx">2006=E5=B9=B40=
+8=E6=9C=88(1)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/07.aspx">2006=E5=B9=B40=
+7=E6=9C=88(2)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/06.aspx">2006=E5=B9=B40=
+6=E6=9C=88(3)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/02.aspx">2006=E5=B9=B40=
+2=E6=9C=88(3)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2006/01.aspx">2006=E5=B9=B40=
+1=E6=9C=88(3)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/12.aspx">2005=E5=B9=B41=
+2=E6=9C=88(2)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/10.aspx">2005=E5=B9=B41=
+0=E6=9C=88(7)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/09.aspx">2005=E5=B9=B40=
+9=E6=9C=88(5)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/08.aspx">2005=E5=B9=B40=
+8=E6=9C=88(8)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/07.aspx">2005=E5=B9=B40=
+7=E6=9C=88(6)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/06.aspx">2005=E5=B9=B40=
+6=E6=9C=88(1)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/05.aspx">2005=E5=B9=B40=
+5=E6=9C=88(6)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/04.aspx">2005=E5=B9=B40=
+4=E6=9C=88(8)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/03.aspx">2005=E5=B9=B40=
+3=E6=9C=88(11)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/02.aspx">2005=E5=B9=B40=
+2=E6=9C=88(5)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2005/01.aspx">2005=E5=B9=B40=
+1=E6=9C=88(7)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2004/12.aspx">2004=E5=B9=B41=
+2=E6=9C=88(14)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2004/11.aspx">2004=E5=B9=B41=
+1=E6=9C=88(8)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2004/10.aspx">2004=E5=B9=B41=
+0=E6=9C=88(24)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2004/09.aspx">2004=E5=B9=B40=
+9=E6=9C=88(18)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2004/08.aspx">2004=E5=B9=B40=
+8=E6=9C=88(46)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2004/07.aspx">2004=E5=B9=B40=
+7=E6=9C=88(42)</A>
+        <LI><A=20
+        =
+href=3D"http://blog.donews.com/zwell/archive/2004/06.aspx">2004=E5=B9=B40=
+6=E6=9C=88(21)</A></LI></UL><BR>
+      <DIV =
+id=3DcomRecText>=E6=AD=A3=E5=9C=A8=E8=AF=BB=E5=8F=96=E8=AF=84=E8=AE=BA=E2=
+=80=A6=E2=80=A6</DIV>
+      <SCRIPT type=3Dtext/javascript>
+<!--
+	var urlRec=3Dwindow.location.href;
+=09
+	var fileRec=3DgetRecFileName(urlRec);
+	ajaxRead(fileRec,0);	=09
+
+//-->
+</SCRIPT>
+      </DIV></TD>
+    <TD class=3DMainCell>
+      <DIV id=3Dmain>
+      <SCRIPT>function =
+StorePage(){d=3Ddocument;t=3Dd.selection?(d.selection.type!=3D'None'?d.se=
+lection.createRange().text:''):(d.getSelection?d.getSelection():'');void(=
+keyit=3Dwindow.open('http://www.365key.com/storeit.aspx?t=3D'+escape(d.ti=
+tle)+'&u=3D'+escape(d.location.href)+'&c=3D'+escape(t),'keyit','scrollbar=
+s=3Dno,width=3D475,height=3D575,left=3D75,top=3D20,status=3Dno,resizable=3D=
+yes'));keyit.focus();}</SCRIPT>
+
+      <DIV class=3Dpost>
+      <DIV class=3DpostTitle><A=20
+      =
+href=3D"http://blog.donews.com/zwell/archive/2004/08/05/59978.aspx">c++=20
+      builder =
+=E7=9A=84=E5=90=AF=E7=94=A8=E7=A6=81=E7=94=A8=E7=BD=91=E5=8D=A1=E5=AE=9E=E4=
+=BE=8B</A></DIV>
+      <DIV class=3DpostText><SPAN class=3Djavascript =
+id=3Dtext4764>#include=20
+      &lt;SetupAPI.h&gt; <BR>#include &lt;cfgmgr32.h&gt; // cfgmgr32.h=20
+      =E5=9C=A8Microsoft Windows 2000 DDK =E4=B8=AD.=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;=
+&nbsp;//=20
+      =E8=A6=81=E7=94=A8 CM_Get_DevNode_Status(...) =
+=E6=9D=A5=E6=9F=A5=E8=AF=A2=E7=8A=B6=E6=80=81.=20
+      =
+<BR>//-------------------------------------------------------------------=
+--------=20
+      <BR>typedef struct NetCardStruct <BR>{=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DWORD Id; // =
+=E7=BD=91=E5=8D=A1=E8=AE=BE=E5=A4=87=E5=8F=B7=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AnsiString Name; // =
+=E7=BD=91=E5=8D=A1=E5=90=8D=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bool Disabled; // =
+=E5=BD=93=E5=89=8D=E6=98=AF=E5=90=A6=E7=A6=81=E7=94=A8=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;bool Changed; // =
+=E6=98=AF=E5=90=A6=E6=9B=B4=E6=94=B9=E8=BF=87 <BR>}=20
+      TNetCardStruct; <BR>typedef TNetCardStruct* PNetCardStruct;=20
+      =
+<BR>//-------------------------------------------------------------------=
+--------=20
+      <BR>// EnumNetCards =E6=9E=9A=E4=B8=BE=E5=87=BA=E7=BD=91=E5=8D=A1=20
+      =
+<BR>//-------------------------------------------------------------------=
+--------=20
+      <BR>void __fastcall EnumNetCards(TList *NetDeviceList) <BR>{=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AnsiString DevValue; =
+
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PNetCardStruct =
+NetCard;=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DWORD Status, =
+Problem;=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;LPTSTR Buffer =3D =
+NULL;=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DWORD BufSize =3D 0; =
+
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HDEVINFO hDevInfo =
+=3D 0;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if =
+
+      (INVALID_HANDLE_VALUE =3D=3D (hDevInfo =3D=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SetupDiGetClassDevs(NULL,NULL=
+,0,DIGCF_PRESENT=20
+      |DIGCF_ALLCLASSES)))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;return;=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SP_DEVINFO_DATA=20
+      DeviceInfoData =3D {sizeof(SP_DEVINFO_DATA)};=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HKE=
+Y=20
+      hKeyClass;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;cha=
+r=20
+      DeviceName[200];=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;for=
+=20
+      (DWORD DeviceId=3D0;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Setu=
+pDiEnumDeviceInfo(hDevInfo,DeviceId,&amp;DeviceInfoData);=20
+      DeviceId++) <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;if=20
+      (CM_Get_DevNode_Status(&amp;Status, &amp;Problem,=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;DeviceInfoData.DevInst,0)=20
+      !=3D CR_SUCCESS)=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;continue;=20
+      =
+<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;&nbsp;DevValue.SetLength(0);=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;if=20
+      (GetRegistryProperty(hDevInfo, &amp;DeviceInfoData, SPDRP_CLASS ,=20
+      &amp;Buffer, (PULONG)&amp;BufSize))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevV=
+alue=20
+      =3D Buffer;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;if=20
+      (DevValue =3D=3D "Net")=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevV=
+alue.SetLength(0);=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (GetRegistryProperty(hDevInfo, &amp;DeviceInfoData, =
+SPDRP_ENUMERATOR_NAME=20
+      , &amp;Buffer, (PULONG)&amp;BufSize))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DevValue=20
+      =3D Buffer;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (DevValue !=3D "ROOT")=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetCard=20
+      =3D new TNetCardStruct;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetCard-&gt;Id=20
+      =3D DeviceId;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetCard-&gt;Name=20
+      =3D "&lt;Unknown Device&gt;";=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (GetRegistryProperty(hDevInfo, &amp;DeviceInfoData, SPDRP_DRIVER , =
+
+      &amp;Buffer, (PULONG)&amp;BufSize))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (GetRegistryProperty(hDevInfo, &amp;DeviceInfoData, =
+SPDRP_DEVICEDESC ,=20
+      &amp;Buffer, (PULONG)&amp;BufSize))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp=
+;&nbsp;&nbsp;&nbsp;NetCard-&gt;Name=20
+      =3D Buffer;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetCard-&gt;Disabled=20
+      =3D (Status &amp; DN_HAS_PROBLEM) &amp;&amp; (CM_PROB_DISABLED =
+=3D=3D Problem);=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetCard-&gt;Changed=20
+      =3D false;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetDeviceList-&gt;Add(NetCard=
+);=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;}=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;} <BR>}=20
+      =
+<BR>//-------------------------------------------------------------------=
+--------=20
+      <BR>bool __fastcall GetRegistryProperty(HDEVINFO DeviceInfoSet,=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;PSP_DEVINFO_DATA=20
+      DeviceInfoData, ULONG Property, PVOID Buffer, PULONG Length) <BR>{ =
+
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;whi=
+le=20
+      (!SetupDiGetDeviceRegistryProperty(DeviceInfoSet,=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;DeviceInfoData,=20
+      Property, NULL, (BYTE *)*(TCHAR **)Buffer, *Length, Length))=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;if=20
+      (GetLastError() =3D=3D ERROR_INSUFFICIENT_BUFFER)=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (*(LPTSTR *)Buffer) LocalFree(*(LPTSTR *)Buffer);=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*(LP=
+TSTR=20
+      *)Buffer =3D (PCHAR)LocalAlloc(LPTR,*Length);=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;}=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;else=20
+      return false; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return (*(LPTSTR=20
+      *)Buffer)[0]; <BR>}=20
+      =
+<BR>//-------------------------------------------------------------------=
+--------=20
+      <BR>// NetCardStateChange =
+=E7=BD=91=E5=8D=A1=E7=9A=84=E5=90=AF=E7=94=A8=E4=B8=8E=E7=A6=81=E7=94=A8 =
+<BR>// NetCardPoint =E6=98=AF PNetCardStruct=20
+      =E7=9A=84=E6=8C=87=E9=92=88. <BR>// Enabled true =3D =
+=E5=90=AF=E7=94=A8 false =3D =E7=A6=81=E7=94=A8=20
+      =
+<BR>//-------------------------------------------------------------------=
+--------=20
+      <BR>bool __fastcall NetCardStateChange(void * NetCardPoint, bool =
+Enabled)=20
+      <BR>{ <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PNetCardStruct =
+NetCard=20
+      =3D (PNetCardStruct)NetCardPoint;=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DWORD DeviceId =3D=20
+      NetCard-&gt;Id; =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;HDEVINFO=20
+      hDevInfo =3D 0;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if =
+
+      (INVALID_HANDLE_VALUE =3D=3D (hDevInfo =3D=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SetupDiGetClassDevs(NULL,NULL=
+,0,DIGCF_PRESENT=20
+      |DIGCF_ALLCLASSES)))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;return=20
+      false;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SP_=
+DEVINFO_DATA=20
+      DeviceInfoData =3D {sizeof(SP_DEVINFO_DATA)};=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DWORD Status, =
+Problem;=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (!SetupDiEnumDeviceInfo(hDevInfo,DeviceId,&amp;DeviceInfoData))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;return=20
+      false; <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (CM_Get_DevNode_Status(&amp;Status, &amp;Problem,=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DeviceInfoData.DevInst,0)=20
+      !=3D CR_SUCCESS)=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;return=20
+      false;=20
+      =
+<BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SP_PROPCHANGE_PARAMS=20
+      PropChangeParams =3D {sizeof(SP_CLASSINSTALL_HEADER)};=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PropChangeParams.ClassInsta=
+llHeader.InstallFunction=20
+      =3D DIF_PROPERTYCHANGE;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;PropChangeParams.Scope =3D =
+
+      DICS_FLAG_GLOBAL; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if =
+
+      (Enabled) <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;if=20
+      (!((Status &amp; DN_HAS_PROBLEM) &amp;&amp; (CM_PROB_DISABLED =
+=3D=3D=20
+      Problem)))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetC=
+ard-&gt;Disabled=20
+      =3D false;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;retu=
+rn=20
+      false;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;}=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;PropChangeParams.StateChange=20
+      =3D DICS_ENABLE; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;else=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;if=20
+      ((Status &amp; DN_HAS_PROBLEM) &amp;&amp; (CM_PROB_DISABLED =3D=3D =
+Problem))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;{=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;NetC=
+ard-&gt;Disabled=20
+      =3D true;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;retu=
+rn=20
+      false;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;}=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;if=20
+      (!((Status &amp; DN_DISABLEABLE) &amp;&amp; =
+(CM_PROB_HARDWARE_DISABLED !=3D=20
+      Problem)))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;retu=
+rn=20
+      false;=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;PropChangeParams.StateChange=20
+      =3D DICS_DISABLE; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;}=20
+      <BR><BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (!SetupDiSetClassInstallParams(hDevInfo, &amp;DeviceInfoData,=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;(SP_CLASSINSTALL_HEADER=20
+      *)&amp;PropChangeParams, sizeof(PropChangeParams)))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;return=20
+      false; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (!SetupDiCallClassInstaller(DIF_PROPERTYCHANGE, hDevInfo,=20
+      &amp;DeviceInfoData))=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;return=20
+      false; <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;if=20
+      (CM_Get_DevNode_Status(&amp;Status, &amp;Problem,=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DeviceInfoData.DevInst,0)=20
+      =3D=3D CR_SUCCESS)=20
+      =
+<BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nb=
+sp;&nbsp;&nbsp;&nbsp;NetCard-&gt;Disabled=20
+      =3D (Status &amp; DN_HAS_PROBLEM) &amp;&amp; (CM_PROB_DISABLED =
+=3D=3D Problem);=20
+      <BR>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;return true; <BR>}=20
+      </SPAN><BR><BR>
+      <P id=3DTBPingURL>Trackback:=20
+      http://tb.donews.net/TrackBack.aspx?PostId=3D59978</P><BR></DIV>
+      <DIV class=3DpostFoot>[<A=20
+      =
+href=3D"javascript:StorePage()">=E7=82=B9=E5=87=BB=E6=AD=A4=E5=A4=84=E6=94=
+=B6=E8=97=8F=E6=9C=AC=E6=96=87</A>]&nbsp;&nbsp;=E5=8F=91=E8=A1=A8=E4=BA=8E=
+2004=E5=B9=B408=E6=9C=8805=E6=97=A5=20
+      10:35 AM</DIV></DIV><LINK=20
+      href=3D"http://blog.donews.com/zwell/Services/Pingback.aspx" =
+rel=3Dpingback><!--<rdf:RDF =
+xmlns:rdf=3D"http://www.w3.org/1999/02/22-rdf-syntax-ns#"xmlns:dc=3D"http=
+://purl.org/dc/elements/1.1/"xmlns:trackback=3D"http://madskills.com/publ=
+ic/xml/rss/module/trackback/"><rdf:Descriptionrdf:about=3D"http://blog.do=
+news.com/zwell/archive/2004/08/05/59978.aspx"dc:identifier=3D"http://blog=
+.donews.com/zwell/archive/2004/08/05/59978.aspx"dc:title=3D"c++ builder =
+=E7=9A=84=E5=90=AF=E7=94=A8=E7=A6=81=E7=94=A8=E7=BD=91=E5=8D=A1=E5=AE=9E=E4=
+=BE=8B"trackback:ping=3D"http://tb.donews.net/TrackBack.aspx?PostId=3D599=
+78" /></rdf:RDF>-->
+      <SCRIPT>function hide(){showComment();}</SCRIPT>
+      <BR>
+      <DIV align=3Dcenter><BR><BR></DIV><BR>
+      <DIV =
+id=3DcomText>=E6=AD=A3=E5=9C=A8=E8=AF=BB=E5=8F=96=E8=AF=84=E8=AE=BA=E2=80=
+=A6=E2=80=A6</DIV>
+      <SCRIPT type=3Dtext/javascript>
+<!--
+	var url=3Dwindow.location.href;=09
+	ajaxRead(getCommentFileName(url),1);
+//-->
+</SCRIPT>
+
+      <DIV id=3Dcommentform>
+      <H3>=E5=8F=91=E8=A1=A8=E8=AF=84=E8=AE=BA</H3>
+      <TABLE cellSpacing=3D1 cellPadding=3D1 border=3D0>
+        <TBODY>
+        <TR>
+          <TD></TD>
+          <TD></TD>
+          <TD></TD></TR>
+        <TR>
+          <TD>=E5=A4=A7=E5=90=8D</TD>
+          <TD><INPUT class=3DTextbox id=3DPostComment.ascx_tbName=20
+            style=3D"WIDTH: 300px" size=3D40 =
+name=3DPostComment.ascx:tbName></TD>
+          <TD></TD></TR>
+        <TR>
+          <TD>=E7=BD=91=E5=9D=80</TD>
+          <TD><INPUT class=3DTextbox id=3DPostComment.ascx_tbUrl=20
+            style=3D"WIDTH: 300px" size=3D40 =
+name=3DPostComment.ascx:tbUrl></TD>
+          <TD></TD></TR>
+        <TR>
+          <TD>=E9=AA=8C=E8=AF=81=E7=A0=81</TD>
+          <TD><INPUT id=3DPostComment.ascx_ValidationKey style=3D"WIDTH: =
+150px"=20
+            name=3DPostComment.ascx:ValidationKey> <IMG=20
+            src=3D"http://blog.donews.com/VKImage.aspx" =
+align=3DabsMiddle> </TD></TR>
+        <TR>
+          <TD colSpan=3D3>=E8=AF=84=E8=AE=BA&nbsp; <BR><TEXTAREA =
+id=3DPostComment.ascx_tbComment style=3D"WIDTH: 100%; HEIGHT: 193px" =
+name=3DPostComment.ascx:tbComment rows=3D10 =
+cols=3D50></TEXTAREA></TD></TR>
+        <TR>
+          <TD colSpan=3D3><INPUT id=3DPostComment.ascx_chkRemember =
+type=3Dcheckbox=20
+            CHECKED name=3DPostComment.ascx:chkRemember><LABEL=20
+            =
+for=3DPostComment.ascx_chkRemember>=E8=AE=B0=E4=BD=8F=E6=88=91</LABEL></T=
+D></TR>
+        <TR>
+          <TD><INPUT language=3Djavascript class=3DButton =
+id=3DPostComment.ascx_btnSubmit onclick=3D"setClientCookie();if =
+(typeof(Page_ClientValidate) =3D=3D 'function') Page_ClientValidate(); " =
+type=3Dsubmit value=3D=E7=A1=AE=E5=AE=9A =
+name=3DPostComment.ascx:btnSubmit></TD>
+          <TD colSpan=3D2><SPAN id=3DPostComment.ascx_Message=20
+            style=3D"COLOR: =
+red"></SPAN></TD></TR></TBODY></TABLE></DIV></DIV></TD></TR>
+  <TR>
+    <TD class=3DFooterCell>
+      <DIV class=3Dfooter>Powered by: <BR><A id=3DFooter1_Hyperlink2=20
+      href=3D"http://scottwater.com/blog" name=3DHyperlink1><IMG =
+alt=3D""=20
+      src=3D"http://blog.donews.com/images/100x30_Logo.gif" =
+border=3D0></A> <A=20
+      id=3DFooter1_Hyperlink3 href=3D"http://asp.net/" =
+name=3DHyperlink1><IMG alt=3D""=20
+      src=3D"http://blog.donews.com/images/PoweredByAsp.Net.gif" =
+border=3D0></A>=20
+      <BR>Copyright =C2=A9 zwell </DIV>
+      <SCRIPT src=3D"http://ovsmbt.mop.com/ov.js" =
+type=3Dtext/javascript></SCRIPT>
+    </TD></TR></TBODY></TABLE></FORM>
+<SCRIPT type=3Dtext/script>
+	 <!--
+	=20
+		getClientCookie();
+	=09
+	 //-->
+	 </SCRIPT>
+</BODY></HTML>
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://blog.donews.com/images/xml.gif
+
+R0lGODlhJAAOANUAANVYBPHUwOFdBP/28P9yFeCngvfp4OVeBPRkBe3JsfBjBfr079+ecv+rc/fg
+0NByM+e9of/j0Z9BA//m1eWEQ/+FNP/awc5VBM1nI//t4eezkeirgtRhFPBsFOR3Lt1uJPDBofjX
+wf98JOZ7M/PCofqWU/CugiEOAfmygv/Rsv+PRP+0gn0zAv+aV8JQBD8aAf/IpP////9mAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAAAkAA4AAAbKwAls
+SCwaj8ijpyVrOp/QqDTKYk6vWKq12YgNCDJVLEJYxWKVJuwcjlmmVWgoliBkYo+LOQZBEM4xLmIB
+AFJxTyILMQ4xDC4IZoofKwNngjGEhltOJWcBLgcyZhB0AySWg4VaUWIxBhxNZgUgZxiomKpQh04E
+AwOMGrExBSN0LreZq08pjQ9nFKLDAgguALcGGysrKk+7Ml2fByiuHbICTreAMSYKTt4yB9VNAi4u
+MvTnTvUyCvX++TLeZRlIRcKLgwgTKlzIcOGJIAA7
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://www.donews.net/images/www_donews_net/zwell/6799/r_zwell.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCABkAGQDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwDntLv1
+BbSr1dozvhnj7/41v2dwjQx2zbS6EtAw6P6qff0rmrd7CeWJo742s2elxHmOT6MPun8K0rzSNS02
+I3sUDXWnSfM72rb/ACWH8S967kcTNq2uI0kEoIMbs8D/AOyc5X+dZ92rW4niHO9CuT/n2z+NR2Fx
+HeFZoWSQTgeaF+7KB/EPRgetXFgOqeeQ+02eVlB7ZAwfwIfPsUp3Fa6KPgyRJNTdH/iOAPfBFZFx
+mOZ1f76TujD3BqW0kNl4gtli+X7R5g9g6gH+RB/OpvEoxqU1wAAl7HFepjp82VYfmBS6XDfQotIP
+n+lbXhZRJrcGfuJA8j/TpXLtIfnXPKD5q6vQs21nfXfH72RLFCe+xd7/AJ5xSTuO1tTLuZd3iAhO
+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
+RRRQAUUUUAFFFFABRRRQAUUUUAFFFFAH/9k=
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/xml
+Content-Transfer-Encoding: base64
+Content-Location: http://blog.donews.com/VKImage.aspx
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAgGBgcGBQgHBwcJCQgKDBQNDAsLDBkSEw8UHRofHh0a
+HBwgJC4nICIsIxwcKDcpLDAxNDQ0Hyc5PTgyPC4zNDL/2wBDAQkJCQwLDBgNDRgyIRwhMjIyMjIy
+MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAAYADEDASIA
+AhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQA
+AAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3
+ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWm
+p6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEA
+AwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSEx
+BhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElK
+U1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3
+uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD0/UPF
+7ReI7ixSX7HZ6dLGl5PNpdxcI+5Ekb96hEcCqjrl3J6klVVQX6DU9astI8oXTTtJLkpDbW0lxIwG
+MtsjVm2jKgtjALKCckZx9U8LXl82sW9vqcEGm61n7fFJaGSb5olhbypBIoT5EXG5Hw2TyDtB4p8O
+3Wq6jp+oWY82S1imgMH9pT2G4SGNt3mwgsceUBsIwd2cgqMgHQWN9b6jZx3VrJ5kL5AJUqQQSGVl
+OCrAggqQCCCCARVisvw9pZ0fRIbNkjRw8krqkskoDSOzn55CXc5Y5Y43HJwudo8oi1rWjrbfD1tU
+vzqK6/uNybhhL/Z23zfv5znHH44oA9X1/UptK06K4gWNne9tLchwSNstxHEx4I52uSPfHXpUmma7
+o+t+b/ZOq2N/5OPM+yXCS7M5xnaTjOD19DWf4zsP7T8PpZm0+1xyahY+bCY/MDRi7iL7l7qFDE54
+wDnipLqCZvHWk3CxSGBNMvUeQKdqs0tqVBPQEhWIHfafSgDcooooAKKKKACuE0XSJb74sa/4juLC
+S3itraLT7R5YSnnfxPICeoz8oPcUUUAd3RRRQAUUUUAf/9k=
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://blog.donews.com/images/100x30_Logo.gif
+
+R0lGODlhSwAeAPcAAEBAQL+/v4CAgDAwMGyGs5+fn+/v79/f3yAgIGBgYG2Hs4+Pj1BQUL3K33GK
+tc/Pz3BwcG2Gs2yHs2uGs8HN4a+vr/X3+hAQEImfxP39/vf5+97l8Pr7/f7+/2+ItHCKtunu9W2I
+s7/M4OPp8vz9/oeew+jt9PDz+G2HtOLo8X2Vvebs8+7y96i51Pf4+73L34GYv9Ha6WyHtLrI3rvJ
+39/m8HOMt4CYwOTq8u3x926ItNLb6fv8/dfg7XSNt3OOuJOoyXiRuoifxIGZv3mRu6e41Pj5/Jyv
+zvn6/HaPueHo8b7K39ri7nuTu+fs9HCJtebr89zk74CZv9Hb6uDm8MjT5KWvwrPC2o6at5alx5Kj
+wfT2+q/A2JitzG2ItOru9ff4+vb4+7vJ3vz9/87Y53+YvsvY7XGJtcDN4IKZv8vT4dnh7ai61efv
+/Yuixc7V4tLV44+lx/v7/HyTvJGcs7XF4LHB2pquzKGwzHuUvMHO4XKLtrzJ3tnd53uSvHKLt7TE
+24mgxHePuYadwu3z+tPc6nmJrPL4/pees42ixam0y3aPuHCLtpeqysfS5Ky81sjU5dfZ462915ar
+y3WOuNXe626JtXSOuNbe6+3x9uXq8oyixXqQusXM3dTd6nyVvaKtwrPB2eLo8qq61eDo8rTD2rXE
+2+jw/3mQusfT5MvW5tHU3fT3+oacwqu71rzK3v7+/rTD26K00W6Hs7W80IGBgcPP4nqRuu/2/77L
+37rJ3szW5oGMptvc46S20pery56wz+7x95qtzbnH3fr7/OXr84WRsKa406O10ezw9oCYv9Lb6p+y
+z46jxuvv9YSbwPX3+/z8/n6IoYecwtbf7Pj6/MDM4LbE29vi7q291vb8/3CKta6+13+Yv4+kxvH0
++Ka20pKoyW+KtfL1+bPD24OawPD1/6ewxsLO4XqSu5KmyHGKtrrH3+Lo86K10eTj5b/F18XR4/Hz
++ISEhAAAAP///wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACH5BAAAAAAALAAAAABLAB4A
+AAj/AOcJHEiwoMGDCBMqXKiwnsOHECNKnEixosWLEwVi3Mixo8eHGj+KHCkyZEQLRYRgWIlBiLtv
+IjuQ/GgS4olWCnLmnKUsGcctO9CZmElz3kQN1nw10zEhkawGGjjy+XGrEFGPNR92yBBthgMCw4zU
+45GixwYXHUBQGSH2ywYoOI4QSPLCSdSrGLNGFPG1QT0NplARsOHKQihBc6qcAPLkyC9GE1DYSNID
+b16jFRt8zZUBUIg/g55IEBHDRwRhqfaIE1PkxwQvRLoxsXxRL0TNBNAoKROCTaY7Ctw4mRRhSBcF
+GHKwYEYgiB5N1WhbtP0QN4V4Ejxww4ZMwicTjj7o//jgoZTDRwSarJFeG7NDMPKI1ctRzzqNCDJ8
+XPqggMgGDiVMIAEMotTDQQsEpLMDe9NhJgcc8CiCRS+k1PcVBfeh4McNN0gRzgphBCiBClEYiGAT
+njBYUUh9dFLPIXUYo4aFBFBgS3a6PJRBPS9sI8MHEkhSTwbHNLeMihSFRAshY+DSBh6g0EhBFHko
+UEIMKWByAhJxEBAIEAoMUUw92RDgATA18IBkRCGdw4425pyihRX1zBABAa9wwEUIEVCiwiJLkGEJ
+ASKQo0AEV9QDSQQTEKCOM2tCFFIkhthhRhbSvFHPLtOkoUo9FsTyzDpnlLPENTBswsIG3qgADjQW
+jP/CCQqNBBMpSJjBsgodvCDyTjugjpACKzKRMEIl1OAwDghKDEUCCDWsgEQ9LjAxBRQk3OoQdRUF
+UIBDFQhgQAACfPuQuAcUcIAAApDL7gH1qJtuvPA6NK9DAmzELUUADFBPBQAEsG4CCeTrED0FBBDw
+AAE8IAA9AsALQbsI1FPxQwo/RI++7nE0AAAGLMAAvu0CoHHAKGv8UAETb1wxwA8EMAAD324Mc7wM
+JBAvAPDuK9EDOQdgwAA6C0CwwfXQk8ACAV8AwANJYwwAAxAwPbQBCASAwAEV04P1AQNgbcDGXhtQ
+j88RMQ1AvkMXIAAA5h4sc8oHQ0T0AgUH4DQ9GZNz3Xff9UAQ9tkdY7S0yA5VzS7GUX+ccd0Pzax3
+BQ/4W4/CWCddOdaVRx14vmhDtDXXahuweD1gR8203nB77hAD+dIDteAQzF1zPQkM8C0DAGz8cc+F
+a0ubARewGbzwVzGAQNzbHo88gwLVwtD01Fdv/UABAQA7
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: image/gif
+Content-Transfer-Encoding: base64
+Content-Location: http://blog.donews.com/images/PoweredByAsp.Net.gif
+
+R0lGODlhWAAfAAAAACH+P0NyZWF0ZWQgYnkgSm9obiBIYW1tDQpqb2huQHNuYXBqYXguY29tDQpo
+dHRwOi8vam9obi5oYW1tb2NvLmNvbQAh+QQBAABkACwAAAAAWAAfAIcAAADN1tWBqz1phI9IaZQ0
+RSNmmcx/m8BRg77P47uGm7Y1FAxoamuAiE/TtUWww9Tb8cR6jZvR3sIZGRiZmZlCWWeEhow7aqJ5
+eX3i7/+rvM6atMOys6O/w87Y6/rao3phks2ne2LnlVmk2/9mmdvT1s9bgq1Vcpo6OjpRUVKvoEPr
+7/C2t73m1Hnl4+je3ubmymmCg4f19ORBZpOUk5fa1+OMrNLDztKjpKevxdwzMzOem2QIBwfZnG3A
+ua9jaGx0dnmrXT9ck9bt9/nIopWdtc13iZVrh6+cq77V3Oa+v8P49f59h6oqKipxx/epoY5kjL1D
+Q0bf393d5u/02sv15uHFzt2rxWogISH/+bJmZmZTfLBFcaJnkcF1OiakljvDrn+gv0pcg6TF1uqn
+xbudnqRdcYpjdJKTrMvL2+jtoFyki3viw3G+qm3Kwrf/2b5bW1734M5DRETk6PS2u86Sq7/u+P/D
+dUX18Opue4ONoWTg4O3f5OeTqdDOztXX1+OypZzFxs4OIiyvtsbYvGmcijngvZ+ElcDPv4Nkh69v
+wO1xcnWurrZGbJvu7vjLzL+MjpTG1OFdjMJNe7a5sVzQz91qltVhcoxffKhSIhWYpbbm5u59kq9T
+VFfooWOerMYQEBD//onF3ubr6vBrg51KSkpfhr2fw2EhHhFthKSa0PT19vqeuddSa4Td5vX49PGK
+iGKJio2PpsW0xtTW3/Dh7udBa6VJRjGyvMZbdJLY3t6mqq9jfJq8u810jausrGT///+zsraRqVPn
+z824eFx0jKRqfpfKuLbJnIVicYRgj9Xzz2GhwFibil6tvJ9XgretvdTC0K2itm7o0Hq9z+d7jq5+
+fYNklNa2wdfXzpRGda3Px9SktM22yODk3+UiKhkULjvq9e3j69z/mWa+x9gFBQSarc3P3vPjo3eh
+tovO1+hjZGhrlc+mpqtiepaLnK6Vq8OltMfn7vhijcRsa3Ghrb3Q1N+Tk5vn8P+2fGhRYYLOtI+x
+j2zFztfW1t42NTgI/wDJkPlkLFmyS2cSnjGjMGEud+4Y5spFqqLFisYyatyY8WKxjyBDiixWLRWT
+kyB9+YrAUqWvkO80CCRT7V28DuQe6NTZrSe0njsfAA1KdJbRo7NyKF2qFKnTp0ixYesGlWkOnfE0
+aSLD7V0HPsDCih1rp6zZs2jTql3LFq28Iaviyl1Cd4jdIUvO0sKlSYOxeGDDyh1MuLDhw4gTGw4X
+Dg+eOFQiO2Yc7tWoUY7kaU5T710ycnFfvVqxwg+Q08EcqV7NurXr1zRIr4gtu7Zt27VqDcFj6AM6
+dPmIiBPHWBzpTcjnuNIQ4dKgsJcvMwJyWQuO6Niza99+GUV079zDX/+eU+WDJxF3iCGDFS2ahGiP
+pEhx4SIJLW7GLkGzo3oUckaL/LfIIut0osQigWzSiT+BLFJGJ+uwwAKE/nQyIHIErtMEcps0sc46
+i1SI4R8cloicN/RR0YMaaqTHTwPCXCFNOtGUUMMLSahzThHGnMGNHSvwISQfu3SySxkoDMiHPShA
+Yk0gE5RhjTUoLInCLlHwsc4ufFgDyS6LLAnKkKDYw8ciu6AQiD1NDOnmm94M80EPH4QQQjPCCBDG
+FXrU6I8/6qhDjSykXPLjm+2k0E47fizSzgsv/ONHFFOuEwUF/wwYRTuLREoPPevEQs+jkUJa6gvt
+0CNqLNaY6qqrf/z/sQ0HxwRDwRMwMhPGKekoEYgfflhhBTUKkHKGBnbwocuyuuBAD7OxxLLsP7rI
+Qa0cciiRwrKxOKtLCkroEkwwFliw7ATMoqtLtLo00YQfzMb75585MhEPEqkM4EyuezqDyw0Ak0NO
+NwrwYsaPzNZQg7MK17BNFHBEYUENFqRQQwoW/AFHChg7+wcj/9ATxTZ/QJzCBA1PkELECrPcsMKx
+xmxPGtRUgwYaYrSSThttUELJLxwEInQHHdABjQIJxWPHC/PG7PTTUEct9dSx0nMP1fbYE0kfh9jQ
+hRgD7KACIdNMg4gPvQSihBJ00KEB0md8Yse8dNdt99145123Bf/Y/3N31lkHEEnXNhxxghFiO7AM
+DG2g3QsukGvAjQK5xL30H8rGqzl9/gDLxyaQ1s3HKJnH++rprrpgqj+AA94PE330UY0+ZezwheKE
+gOEG5JFzww0nE8lN9wu7uNtEp3/sEUwnWPAAihz3jBILFsY3EQUGgbzw8vbcvxxIMFC3nvUsAuMC
+yA6EwMDGPoAE84AG8PvOjS+5mBGPPEz/uYk1APT/T/KMAEX/BggAGvCPgP1DwdP2wMAFMvCBc0AS
+pP5gt0pUAljACoQb9gGGNoChfYOAn+S4YY4iFCMXl4gHPl5gj5iVYoCgyJ4c+qcDSMChHKBgABD6
+1wQtdGIC/YPEC/8YcYNAREsJ+fvTLiBxDwpQ4B73+EETYlEGP1CQbhb8EwaB5QYf+IAFvRiEGMX4
+iTL6IiIawEcS/HEjFvAAAFjon7niCAAdsMAPLPDHJnYIACAAYwmL6J8WXoACLTQBHIKYAAte8Ad7
+lEJlcVxAJjKxAFCUggEBSIImN7lGwFmwEv3oB9Ha1rYxfoKE9EuhGtm4h0BO4IByeMELBziBTljg
+BRjoXxTKEAM6xmIP/wAFAZygCEGUAlJwAAULNhEIFHhhHOMIwv9ihSNOOu2T/QDYDYjGu3h4Ex5F
+MEc1IBKPDEzBHyyMYyc68MZyBMMPOkAgADqRS3larAZNqMAIVDH/ggpgwR+VmEAM9mCPF7BgAoZ4
+wxr+wcYbnY5eOVJHJIyiAW9uYAN1qIMsNrpRw9kvA7TwBx8YUQ4ANKEUbwQAA1ahizJg4JH940ET
++jeBUsgBDhbwA9OakAcPjMEDcEBZIHigA2zZdAKMGAWm5rWH0zHLHjl5ADwOcIAjHMEEWM2qKaDQ
+hWdwwQwacMULkAMJedbRhil4wSqCUVIApBQOo4DUZfjgjyZgQB5JmENQX6AEHnwBBtl4RCD+tAcK
+oMAfmhQSfejDNHtYARrm4AQvxCAGKFh2HvMAgSQ2i9l5TMIWqpzCWOEAgAksAgM3RGAT4DBLLHSi
+f3BlYA1owII9/9g1rnNYBxYgNYFChCILMkgCDl4wB8Oaag+L9UYN1DGGo2ECE4mAgikya4nqKkMZ
+7MhudkGAANCqcArMFGAnVOOCmZYDBSklIA1i0L9OgG4TFChtIHSAAUe8YBTrmEACICAHVLQgC+Lo
+BAr2MId2NEGPD2xgJHJwgOdaNruWuIaEr0GCCYMABNXlri2S8d0pBINjZdhDEvZAA45RgAUMQEET
+UECP65SBY5B4IA7gON/63ncdAChAAb4BAFTcQgcoUMIcmooCLJRCCQSmxRhyIAtMPGO62Z3wNS5M
+ZRBoV7teTYYG5EFgF3DIVBxi4ByYdt+4jhU5x2VEgnCghPeygP8GkIAEDeYci11MYQ5TyLM9aBAL
+f0xhyX0QgwmggFkQSFnCVL6ydq38DFsMII34yPPTVGcqp4Uuf65qqMJCt0kGpo4+8gm1kCLRDVYk
+wgSYNYCqDXDoKVcZBCQQghAqfI3uRqAetJjDHGiR6zGjDqKas4cuMGi3GvhjWa8SM4HnIIUpJCEN
+DyiCLzDRBUm82tBSvvY1ZM1tEEyCC52ZhToykAFXmNsV5uS1K3jNbk7aYwr2iKg6OEnvTeb53nkO
+1DmgcbNTX3bVVc72hRWd7S1wAQpkiIAmvBkPaMjv4Q//BBKQcC9vUvxeFJ/4xDF+cSRwY+Jl/IQC
+Rp6KI2CCAM9aSLnKVY6Alru85Stnecsn8YwtNCIRMxlEBDpCCl5UxOc/5wUvUjH0obuDFEQHukWE
+noqmJz3pvMgFAabeiBlw4eoXyLo2tG6Lrnv962D/+gW0oY1GNMIXAgkIADs=
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/skins/AnotherEon001/style.css
+
+BODY {
+	PADDING-RIGHT: 30px; PADDING-LEFT: 30px; FONT-SIZE: 0.7em; =
+PADDING-BOTTOM: 10px; MARGIN: 10px 30px; PADDING-TOP: 10px; FONT-FAMILY: =
+Verdana, Geneva, Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #d9d6cb
+}
+IMG {
+	BORDER-RIGHT: 0px; BORDER-TOP: 0px; BORDER-LEFT: 0px; BORDER-BOTTOM: =
+0px
+}
+TD {
+	FONT-SIZE: 0.7em
+}
+A {
+	COLOR: #223355; TEXT-DECORATION: none
+}
+A:hover {
+	TEXT-DECORATION: underline
+}
+H1 {
+	FONT-SIZE: 1.8em; MARGIN: 0px; PADDING-TOP: 5px
+}
+H1 A:visited {
+	MARGIN-TOP: 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+H1 A:active {
+	MARGIN-TOP: 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+H1 A:link {
+	MARGIN-TOP: 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+H1 A:hover {
+	MARGIN-TOP: 10px; COLOR: #fff; TEXT-DECORATION: none
+}
+H2 {
+	MARGIN-TOP: 10px; FONT-SIZE: 1em
+}
+H5 {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: =
+0px; PADDING-TOP: 0px
+}
+#top {
+	VERTICAL-ALIGN: middle; HEIGHT: 75px; BACKGROUND-COLOR: #20375f
+}
+#top TD {
+	COLOR: white
+}
+#sub {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 0.8em; =
+PADDING-BOTTOM: 4px; COLOR: #cccccc; PADDING-TOP: 4px; BACKGROUND-COLOR: =
+black; TEXT-ALIGN: right
+}
+.headermaintitle {
+	FONT-FAMILY: "Trebuchet MS"
+}
+#tagline {
+	PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 1em; PADDING-BOTTOM: =
+5px; MARGIN: 0px; COLOR: #ffffff; PADDING-TOP: 5px; BACKGROUND-COLOR: =
+#0000ff
+}
+P.date IMG {
+	VERTICAL-ALIGN: middle
+}
+P.date {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-WEIGHT: bold; FONT-SIZE: =
+1.2em; MARGIN-BOTTOM: 0px; PADDING-BOTTOM: 2px; COLOR: #aaaaaa; =
+PADDING-TOP: 2px; TEXT-ALIGN: right
+}
+P.date SPAN {
+	BACKGROUND-COLOR: #fff
+}
+P.date A {
+	COLOR: #888888
+}
+BLOCKQUOTE {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 4px; BORDER-TOP: 0px; PADDING-LEFT: =
+4px; PADDING-BOTTOM: 4px; MARGIN: 0px; BORDER-LEFT: #cccccc 18px solid; =
+PADDING-TOP: 4px; BORDER-BOTTOM: 0px; BACKGROUND-COLOR: #eeeeee
+}
+#leftmenu {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; LEFT: 0px; PADDING-BOTTOM: 5px; =
+WIDTH: 180px; PADDING-TOP: 0px; POSITION: relative; HEIGHT: 100%
+}
+#leftmenu H3 {
+	PADDING-RIGHT: 4px; PADDING-LEFT: 4px; FONT-SIZE: 1em; PADDING-BOTTOM: =
+4px; MARGIN: 0px; PADDING-TOP: 4px; BORDER-BOTTOM: #bbbbbb 1px solid
+}
+#leftmenu UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px =
+0px 10px 8px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+#leftmenu OL {
+	PADDING-LEFT: 5px; LIST-STYLE-POSITION: inside; FONT-SIZE: 8pt; MARGIN: =
+0px 5px 10px; LIST-STYLE-TYPE: decimal
+}
+#leftmenu LI {
+	DISPLAY: inline; MARGIN-BOTTOM: 5px; WORD-BREAK: break-all; WORD-WRAP: =
+break-word
+}
+#leftmenu A:active {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; PADDING-BOTTOM: =
+2px; COLOR: #000; MARGIN-RIGHT: 0px; PADDING-TOP: 2px; TEXT-DECORATION: =
+none
+}
+#leftmenu A:visited {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; PADDING-BOTTOM: =
+2px; COLOR: #000; MARGIN-RIGHT: 0px; PADDING-TOP: 2px; TEXT-DECORATION: =
+none
+}
+#leftmenu A:link {
+	PADDING-RIGHT: 2px; DISPLAY: block; PADDING-LEFT: 2px; PADDING-BOTTOM: =
+2px; COLOR: #000; MARGIN-RIGHT: 0px; PADDING-TOP: 2px; TEXT-DECORATION: =
+none
+}
+#leftmenu A:hover {
+	BACKGROUND-COLOR: #ccd5e0
+}
+#main {
+=09
+}
+#footer {
+	FONT-SIZE: 0.7em; MARGIN: 0px; PADDING-TOP: 5px; TEXT-ALIGN: center
+}
+INPUT.text {
+	WIDTH: 300px
+}
+TEXTAREA {
+	WIDTH: 300px; HEIGHT: 200px
+}
+#comments H4 SPAN {
+	COLOR: #999
+}
+#comments H4 {
+	FONT-SIZE: 0.9em; MARGIN: 0px
+}
+P {
+	MARGIN: 0px 0px 14px
+}
+H3 {
+	FONT-SIZE: 1.2em; BORDER-BOTTOM: #aaa 1px solid
+}
+#relatedlinks UL {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; =
+MARGIN-LEFT: 10px; PADDING-TOP: 0px; LIST-STYLE-TYPE: none
+}
+.post {
+	BORDER-RIGHT: #cccccc 2px solid; PADDING-RIGHT: 4px; BORDER-TOP: =
+#cccccc 1px solid; PADDING-LEFT: 4px; MARGIN-BOTTOM: 28px; =
+PADDING-BOTTOM: 4px; BORDER-LEFT: #cccccc 1px solid; PADDING-TOP: 4px; =
+BORDER-BOTTOM: #cccccc 2px solid
+}
+.post H5 {
+	FONT-SIZE: 14px; MARGIN: 0px 0px 4px
+}
+.post H2 {
+	FONT-SIZE: 14px; MARGIN: 0px 0px 4px
+}
+.post .postfoot {
+	BORDER-TOP: #dddddd 1px solid; FONT-SIZE: 0.8em; MARGIN: 14px 0px 0px; =
+COLOR: #aaaaaa
+}
+PRE {
+	FONT-SIZE: 1em; MARGIN: 0px 0px 0px 22px
+}
+.Textbox {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; =
+BORDER-LEFT: #aaaaaa 1px solid; WIDTH: 100%; BORDER-BOTTOM: #aaaaaa 1px =
+solid
+}
+TEXTAREA {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; =
+BORDER-LEFT: #aaaaaa 1px solid; WIDTH: 100%; BORDER-BOTTOM: #aaaaaa 1px =
+solid
+}
+.button {
+	BORDER-RIGHT: #aaaaaa 1px solid; BORDER-TOP: #aaaaaa 1px solid; =
+BORDER-LEFT: #aaaaaa 1px solid; BORDER-BOTTOM: #aaaaaa 1px solid; =
+BACKGROUND-COLOR: #ccd4e0
+}
+INPUT {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Sans-Serif
+}
+TEXTAREA {
+	FONT-SIZE: 10px; FONT-FAMILY: Verdana, Geneva, Arial, Sans-Serif
+}
+.Framework {
+	BORDER-RIGHT: black 1px solid; BORDER-TOP: black 1px solid; =
+BORDER-LEFT: black 1px solid; BORDER-BOTTOM: black 1px solid; =
+BACKGROUND-COLOR: #eeeeee
+}
+.MainCell {
+	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; =
+VERTICAL-ALIGN: top; BORDER-LEFT: #dddddd 1px solid; PADDING-TOP: 10px; =
+BORDER-BOTTOM: #dddddd 1px solid; BACKGROUND-COLOR: white
+}
+#LeftCell {
+	VERTICAL-ALIGN: top; WIDTH: 200px
+}
+.FooterCell {
+	VERTICAL-ALIGN: top
+}
+SPAN.highlight {
+	BACKGROUND-COLOR: yellow
+}
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: text/css;
+	charset="gb2312"
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/skins/AnotherEon001/print.css
+
+BODY {
+	FONT-SIZE: 12pt; BACKGROUND: white
+}
+#leftmenu {
+	DISPLAY: none
+}
+#top {
+	DISPLAY: none
+}
+#commentform {
+	DISPLAY: none
+}
+#footer {
+	DISPLAY: none
+}
+#LeftCell {
+	DISPLAY: none
+}
+#main {
+	BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: =
+0px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: none! =
+important; PADDING-BOTTOM: 0px; MARGIN: 0px 5%; BORDER-LEFT: 0px; WIDTH: =
+auto; COLOR: black; PADDING-TOP: 0px; BORDER-BOTTOM: 0px
+}
+DIV#content {
+	BORDER-TOP: #930 1px solid; MARGIN-LEFT: 10%; PADDING-TOP: 1em
+}
+A:link {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; =
+COLOR: #520; TEXT-DECORATION: underline
+}
+A:visited {
+	FONT-WEIGHT: bold; BACKGROUND: none transparent scroll repeat 0% 0%; =
+COLOR: #520; TEXT-DECORATION: underline
+}
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/js.js
+
+=EF=BB=BF
+	function getCommentFileName(url){=09
+=09
+		var rCom =3D =
+/^https?:\/\/[^/]+\/([^/]+)\/[^/]+\/\d{4}\/\d{1,2}\/\d{1,2}\/(\d+)\.aspx/=
+i;
+	=09
+		if(rCom.test(url))
+		{	=09
+			var blogUserName=3DRegExp.$1;
+		=09
+			return "/comments/"+ blogUserName.substr(0,2)+"/"+blogUserName +"."+ =
+RegExp.$2 +".html?__=3D" + encodeURIComponent((new =
+Date()).getTime())+Math.random();		=09
+		}
+	=09
+		return "";
+	}
+=09
+	function getRecFileName(url){
+=09
+		var r =3D /^https?:\/\/[^/]+\/([^/]+).*/i;	=09
+	=09
+		if(r.test(url))
+		{
+			var blogUser=3DRegExp.$1;
+			return "/recentcomments/"+ blogUser.substr(0,2)+"/"+blogUser + =
+".html?__=3D" + encodeURIComponent((new =
+Date()).getTime())+Math.random();		=09
+		}
+	=09
+		return "";
+	}
+=09
+	function updateObj(obj, data)
+	{
+		var comText=3DgetObject(obj);
+		comText.innerHTML=3Ddata;
+	}
+
+	function ajaxRead(file,comType)
+	{
+=09
+		var xmlObj =3D null;
+
+		if(window.XMLHttpRequest)
+		{
+			xmlObj =3D new XMLHttpRequest();
+		}=20
+		else if(window.ActiveXObject)
+		{
+			xmlObj =3D new ActiveXObject("Microsoft.XMLHTTP");
+		}=20
+		else=20
+		{
+			return;
+		}
+					=09
+		xmlObj.onreadystatechange =3D function()
+		{	=09
+			if(xmlObj.readyState =3D=3D 4)
+			{
+				if (xmlObj.status=3D=3D200)
+				{
+					var r=3D/^\r\n<!DOCTYPE.*/i;
+				=09
+					if(r.test(xmlObj.responseText)){
+						buildCom(comType);
+					}
+					else{
+						if (comType=3D=3D1){
+							updateObj('comText',xmlObj.responseText);
+						}
+						if (comType=3D=3D0){
+							updateObj('comRecText',xmlObj.responseText);
+						}
+						//UpdateView(xmlObj.responseText);
+					}
+				}
+				if(xmlObj.status=3D=3D404)
+				{
+					buildCom(comType);
+				}
+			}	=09
+		}
+	=09
+		if (file!=3D""){
+			xmlObj.open ('GET', file, true);
+			xmlObj.send ('');
+		}
+	=09
+	=09
+		function buildCom(comType){
+			if (comType=3D=3D0){			=09
+				BuildRecComment();
+			}			=09
+			=09
+			if (comType=3D=3D1){
+				var r=3D/.*Pending=3D.*/i;
+				if (r.test(window.location.href)){	=09
+					setTimeout('BuildCommentFile()',2000);
+				}
+				else{
+					BuildCommentFile();
+				}
+			}	=09
+		}	=09
+	=09
+		function BuildCommentFile(){=09
+
+			=
+Dottext.Web.UI.Controls.Comments.BuildComments(url,buildCom_Callback);
+		}
+	=09
+		function BuildRecComment(){
+			=
+Dottext.Web.UI.Controls.RecentComments.BuildRecentComments(urlRec,buildRe=
+cCom_Callback);
+		}
+	=09
+		function buildCom_Callback(res)
+		{
+			var suc=3Dres.value;
+		=09
+			if (suc=3D=3D"1"){=09
+				ajaxRead(getCommentFileName(url),1);
+			}
+			else{
+				updateObj('comText', =
+"=E6=9A=82=E6=97=B6=E6=B2=A1=E6=9C=89=E5=8F=96=E5=BE=97=E8=AF=84=E8=AE=BA=
+=E6=95=B0=E6=8D=AE");
+			}		=09
+		=09
+		}		=09
+=09
+		function buildRecCom_Callback(res)
+		{
+			var suc=3Dres.value;
+			if (suc=3D=3D"1"){
+				ajaxRead(getRecFileName(urlRec),0);
+			}
+			else{
+				updateObj('comRecText', =
+"=E6=9A=82=E6=97=B6=E6=B2=A1=E6=9C=89=E5=8F=96=E5=BE=97=E8=AF=84=E8=AE=BA=
+=E6=95=B0=E6=8D=AE");
+			}
+		}		=09
+	=09
+	}
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/ajaxpro/prototype.ashx
+
+//--------------------------------------------------------------
+// Copyright (C) 2006 Michael Schwarz (http://www.ajaxpro.info).
+// All rights reserved.
+//--------------------------------------------------------------
+
+// prototype.js
+Object.extend =3D function(dest, source, replace) {
+	for(var prop in source) {
+		if(replace =3D=3D false && dest[prop] !=3D null) { continue; }
+		dest[prop] =3D source[prop];
+	}
+	return dest;
+};
+
+Object.extend(Function.prototype, {
+	apply: function(o, a) {
+		var r, x =3D "__fapply";
+		if(typeof o !=3D "object") { o =3D {}; }
+		o[x] =3D this;
+		var s =3D "r =3D o." + x + "(";
+		for(var i=3D0; i<a.length; i++) {
+			if(i>0) { s +=3D ","; }
+			s +=3D "a[" + i + "]";
+		}
+		s +=3D ");";
+		eval(s);
+		delete o[x];
+		return r;
+	},
+	bind: function(o) {
+		if(!Function.__objs) {
+			Function.__objs =3D [];
+			Function.__funcs =3D [];
+		}
+		var objId =3D o.__oid;
+		if(!objId) {
+			Function.__objs[objId =3D o.__oid =3D Function.__objs.length] =3D o;
+		}
+
+		var me =3D this;
+		var funcId =3D me.__fid;
+		if(!funcId) {
+			Function.__funcs[funcId =3D me.__fid =3D Function.__funcs.length] =3D =
+me;
+		}
+
+		if(!o.__closures) {
+			o.__closures =3D [];
+		}
+
+		var closure =3D o.__closures[funcId];
+		if(closure) {
+			return closure;
+		}
+
+		o =3D null;
+		me =3D null;
+
+		return Function.__objs[objId].__closures[funcId] =3D function() {
+			return Function.__funcs[funcId].apply(Function.__objs[objId], =
+arguments);
+		};
+	}
+}, false);
+
+Object.extend(Array.prototype, {
+	push: function(o) {
+		this[this.length] =3D o;
+	},
+	addRange: function(items) {
+		if(items.length > 0) {
+			for(var i=3D0; i<items.length; i++) {
+				this.push(items[i]);
+			}
+		}
+	},
+	clear: function() {
+		this.length =3D 0;
+		return this;
+	},
+	shift: function() {
+		if(this.length =3D=3D 0) { return null; }
+		var o =3D this[0];
+		for(var i=3D0; i<this.length-1; i++) {
+			this[i] =3D this[i + 1];
+		}
+		this.length--;
+		return o;
+	}
+}, false);
+
+Object.extend(String.prototype, {
+	trimLeft: function() {
+		return this.replace(/^\s*/,"");
+	},
+	trimRight: function() {
+		return this.replace(/\s*$/,"");
+	},
+	trim: function() {
+		return this.trimRight().trimLeft();
+	},
+	endsWith: function(s) {
+		if(this.length =3D=3D 0 || this.length < s.length) { return false; }
+		return (this.substr(this.length - s.length) =3D=3D s);
+	},
+	startsWith: function(s) {
+		if(this.length =3D=3D 0 || this.length < s.length) { return false; }
+		return (this.substr(0, s.length) =3D=3D s);
+	},
+	split: function(c) {
+		var a =3D [];
+		if(this.length =3D=3D 0) return a;
+		var p =3D 0;
+		for(var i=3D0; i<this.length; i++) {
+			if(this.charAt(i) =3D=3D c) {
+				a.push(this.substring(p, i));
+				p =3D ++i;
+			}
+		}
+		a.push(s.substr(p));
+		return a;
+	}
+}, false);
+
+Object.extend(String, {
+	format: function(s) {
+		for(var i=3D1; i<arguments.length; i++) {
+			s =3D s.replace("{" + (i -1) + "}", arguments[i]);
+		}
+		return s;
+	},
+	isNullOrEmpty: function(s) {
+		if(s =3D=3D null || s.length =3D=3D 0) {
+			return true;
+		}
+		return false;
+	}
+}, false);
+
+if(typeof addEvent =3D=3D "undefined")
+	addEvent =3D function(o, evType, f, capture) {
+		if(o =3D=3D null) { return false; }
+		if(o.addEventListener) {
+			o.addEventListener(evType, f, capture);
+			return true;
+		} else if (o.attachEvent) {
+			var r =3D o.attachEvent("on" + evType, f);
+			return r;
+		} else {
+			try{ o["on" + evType] =3D f; }catch(e){}
+		}
+	};
+=09
+if(typeof removeEvent =3D=3D "undefined")
+	removeEvent =3D function(o, evType, f, capture) {
+		if(o =3D=3D null) { return false; }
+		if(o.removeEventListener) {
+			o.removeEventListener(evType, f, capture);
+			return true;
+		} else if (o.detachEvent) {
+			o.detachEvent("on" + evType, f);
+		} else {
+			try{ o["on" + evType] =3D function(){}; }catch(e){}
+		}
+	};
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/ajaxpro/core.ashx
+
+//--------------------------------------------------------------
+// Copyright (C) 2006 Michael Schwarz (http://www.ajaxpro.info).
+// All rights reserved.
+//--------------------------------------------------------------
+
+// core.js
+Object.extend(Function.prototype, {
+	getArguments: function() {
+		var args =3D [];
+		for(var i=3D0; i<this.arguments.length; i++) {
+			args.push(this.arguments[i]);
+		}
+		return args;
+	}
+}, false);
+
+var MS =3D {"Browser":{}};
+
+Object.extend(MS.Browser, {
+	isIE: navigator.userAgent.indexOf('MSIE') !=3D -1,
+	isFirefox: navigator.userAgent.indexOf('Firefox') !=3D -1,
+	isOpera: window.opera !=3D null
+}, false);
+
+var AjaxPro =3D {};
+
+AjaxPro.IFrameXmlHttp =3D function() {};
+AjaxPro.IFrameXmlHttp.prototype =3D {
+	onreadystatechange: null, headers: [], method: "POST", url: null, =
+async: true, iframe: null,
+	status: 0, readyState: 0, responseText: null,
+	abort: function() {
+	},
+	readystatechanged: function() {
+		var doc =3D this.iframe.contentDocument || this.iframe.document;
+		if(doc !=3D null && doc.readyState =3D=3D "complete" && doc.body !=3D =
+null && doc.body.res !=3D null) {
+			this.status =3D 200;
+			this.statusText =3D "OK";
+			this.readyState =3D 4;
+			this.responseText =3D doc.body.res;
+			this.onreadystatechange();
+			return;
+		}
+		setTimeout(this.readystatechanged.bind(this), 10);
+	},
+	open: function(method, url, async) {
+		if(async =3D=3D false) {
+			alert("Synchronous call using IFrameXMLHttp is not supported.");
+			return;
+		}
+		if(this.iframe =3D=3D null) {
+			var iframeID =3D "hans";
+			if (document.createElement && document.documentElement &&
+				(window.opera || navigator.userAgent.indexOf('MSIE 5.0') =3D=3D -1))
+			{
+				var ifr =3D document.createElement('iframe');
+				ifr.setAttribute('id', iframeID);
+				ifr.style.visibility =3D 'hidden';
+				ifr.style.position =3D 'absolute';
+				ifr.style.width =3D ifr.style.height =3D ifr.borderWidth =3D '0px';
+
+				this.iframe =3D =
+document.getElementsByTagName('body')[0].appendChild(ifr);
+			}
+			else if (document.body && document.body.insertAdjacentHTML)
+			{
+				document.body.insertAdjacentHTML('beforeEnd', '<iframe name=3D"' + =
+iframeID + '" id=3D"' + iframeID + '" style=3D"border:1px solid =
+black;display:none"></iframe>');
+			}
+			if (window.frames && window.frames[iframeID]) {
+				this.iframe =3D window.frames[iframeID];
+			}
+			this.iframe.name =3D iframeID;
+			this.iframe.document.open();
+			this.iframe.document.write("<html><body></body></html>");
+			this.iframe.document.close();
+		}
+		this.method =3D method;
+		this.url =3D url;
+		this.async =3D async;
+	},
+	setRequestHeader: function(name, value) {
+		for(var i=3D0; i<this.headers.length; i++) {
+			if(this.headers[i].name =3D=3D name) {
+				this.headers[i].value =3D value;
+				return;
+			}
+		}
+		this.headers.push({"name":name,"value":value});
+	},
+	getResponseHeader: function(name, value) {
+		return null;
+	},
+	addInput: function(doc, form, name, value) {
+		var ele;
+		var tag =3D "input";
+		if(value.indexOf("\n") >=3D 0) {
+			tag =3D "textarea";
+		}
+	=09
+		if(doc.all) {
+			ele =3D doc.createElement("<" + tag + " name=3D\"" + name + "\" />");
+		}else{
+			ele =3D doc.createElement(tag);
+			ele.setAttribute("name", name);
+		}
+		ele.setAttribute("value", value);
+		form.appendChild(ele);
+		ele =3D null;
+	},
+	send: function(data) {
+		if(this.iframe =3D=3D null) {
+			return;
+		}
+		var doc =3D this.iframe.contentDocument || this.iframe.document;
+		var form =3D doc.createElement("form");
+	=09
+		doc.body.appendChild(form);
+	=09
+		form.setAttribute("action", this.url);
+		form.setAttribute("method", this.method);
+		form.setAttribute("enctype", "application/x-www-form-urlencoded");
+	=09
+		for(var i=3D0; i<this.headers.length; i++) {
+			switch(this.headers[i].name.toLowerCase()) {
+				case "content-length":
+				case "accept-encoding":
+				case "content-type":
+					break;
+				default:
+					this.addInput(doc, form, this.headers[i].name, =
+this.headers[i].value);
+			}
+		}
+		this.addInput(doc, form, "data", data);
+		form.submit();
+	=09
+		setTimeout(this.readystatechanged.bind(this), 0);
+	}
+};
+
+var progids =3D ["Msxml2.XMLHTTP", "Microsoft.XMLHTTP"];
+var progid =3D null;
+
+if(typeof ActiveXObject !=3D "undefined") {
+	var ie7xmlhttp =3D false;
+	if(typeof XMLHttpRequest =3D=3D "object") {
+		try{ var o =3D new XMLHttpRequest(); ie7xmlhttp =3D true; }catch(e){}
+	}
+	if(typeof XMLHttpRequest =3D=3D "undefined" || !ie7xmlhttp) {
+		XMLHttpRequest =3D function() {
+			var xmlHttp =3D null;
+			if(!AjaxPro.noActiveX) {
+				if(progid !=3D null) {
+					return new ActiveXObject(progid);
+				}
+				for(var i=3D0; i<progids.length && xmlHttp =3D=3D null; i++) {
+					try {
+						xmlHttp =3D new ActiveXObject(progids[i]);
+						progid =3D progids[i];
+
+					}catch(e){}
+				}
+			}
+			if(xmlHttp =3D=3D null && MS.Browser.isIE) {
+				return new AjaxPro.IFrameXmlHttp();
+			}
+			return xmlHttp;
+		};
+	}
+}
+
+Object.extend(AjaxPro, {
+	noOperation: function() {},
+	onLoading: function() {},
+	onError: function() {},
+	onTimeout: function() {},
+	onStateChanged: function() {},
+	cryptProvider: null,
+	queue: null,
+	token: "",
+	version: "6.10.6.2",
+	ID: "AjaxPro",
+	noActiveX: false,
+	timeoutPeriod: 10*1000,
+	queue: null,
+	noUtcTime: false,
+	m : {
+		'\b': '\\b',
+		'\t': '\\t',
+		'\n': '\\n',
+		'\f': '\\f',
+		'\r': '\\r',
+		'"' : '\\"',
+		'\\': '\\\\'
+	},
+	toJSON: function(o) {=09
+		if(o =3D=3D null) {
+			return "null";
+		}
+		var v =3D [];
+		var i;
+		var c =3D o.constructor;
+		if(c =3D=3D Number) {
+			return isFinite(o) ? o.toString() : AjaxPro.toJSON(null);
+		} else if(c =3D=3D Boolean) {
+			return o.toString();
+		} else if(c =3D=3D String) {
+			if (/["\\\x00-\x1f]/.test(o)) {
+				o =3D o.replace(/([\x00-\x1f\\"])/g, function(a, b) {
+					var c =3D AjaxPro.m[b];
+					if (c) {
+						return c;
+					}
+					c =3D b.charCodeAt();
+					return '\\u00' +
+						Math.floor(c / 16).toString(16) +
+						(c % 16).toString(16);
+				});
+            }
+			return '"' + o + '"';
+		} else if (c =3D=3D Array) {
+			for(i=3D0; i<o.length; i++) {
+				v.push(AjaxPro.toJSON(o[i]));
+			}
+			return "[" + v.join(",") + "]";
+		} else if (c =3D=3D Date) {
+			var d =3D {};
+			d.__type =3D "System.DateTime";
+			if(AjaxPro.noUtcTime =3D=3D true) {
+				d.Year =3D o.getFullYear();
+				d.Month =3D o.getMonth() +1;
+				d.Day =3D o.getDate();
+				d.Hour =3D o.getHours();
+				d.Minute =3D o.getMinutes();
+				d.Second =3D o.getSeconds();
+				d.Millisecond =3D o.getMilliseconds();
+			} else {
+				d.Year =3D o.getUTCFullYear();
+				d.Month =3D o.getUTCMonth() +1;
+				d.Day =3D o.getUTCDate();
+				d.Hour =3D o.getUTCHours();
+				d.Minute =3D o.getUTCMinutes();
+				d.Second =3D o.getUTCSeconds();
+				d.Millisecond =3D o.getUTCMilliseconds();
+			}
+			return AjaxPro.toJSON(d);
+		}
+		if(typeof o.toJSON =3D=3D "function") {
+			return o.toJSON();
+		}
+		if(typeof o =3D=3D "object") {
+			for(var attr in o) {
+				if(typeof o[attr] !=3D "function") {
+					v.push('"' + attr + '":' + AjaxPro.toJSON(o[attr]));
+				}
+			}
+			if(v.length>0) {
+				return "{" + v.join(",") + "}";
+			}
+			return "{}";	=09
+		}
+		return o.toString();
+	},
+	dispose: function() {
+		if(AjaxPro.queue !=3D null) {
+			AjaxPro.queue.dispose();
+		}
+	}
+}, false);
+
+addEvent(window, "unload", AjaxPro.dispose);
+
+AjaxPro.Request =3D function(url) {
+	this.url =3D url;
+	this.xmlHttp =3D null;
+};
+
+AjaxPro.Request.prototype =3D {
+	url: null,
+	callback: null,
+	onLoading: AjaxPro.noOperation,
+	onError: AjaxPro.noOperation,
+	onTimeout: AjaxPro.noOperation,
+	onStateChanged: AjaxPro.noOperation,
+	args: null,
+	context: null,
+	isRunning: false,
+	abort: function() {
+		if(this.timeoutTimer !=3D null) {
+			clearTimeout(this.timeoutTimer);
+		}
+		if(this.xmlHttp) {
+			this.xmlHttp.onreadystatechange =3D AjaxPro.noOperation;
+			this.xmlHttp.abort();
+		}
+		if(this.isRunning) {
+			this.isRunning =3D false;
+			this.onLoading(false);
+		}
+	},
+	dispose: function() {
+		this.abort();
+	},
+	getEmptyRes: function() {
+		return {
+			error: null,
+			value: null,
+			request: {method:this.method, args:this.args},
+			context: this.context,
+			duration: this.duration
+		};=09
+	},
+	endRequest: function(res) {
+		this.abort();
+		if(res.error !=3D null) {
+			this.onError(res.error, this);
+		}
+
+		if(typeof this.callback =3D=3D "function") {
+			this.callback(res, this);
+		}
+	},
+	mozerror: function() {
+		if(this.timeoutTimer !=3D null) {
+			clearTimeout(this.timeoutTimer);
+		}
+		var res =3D this.getEmptyRes();
+		res.error =3D {Message:"Unknown",Type:"ConnectFailure",Status:0};
+		this.endRequest(res);
+	},
+	doStateChange: function() {
+		this.onStateChanged(this.xmlHttp.readyState, this);
+
+		if(this.xmlHttp.readyState !=3D 4 || !this.isRunning) {
+			return;
+		}
+
+		this.duration =3D new Date().getTime() - this.__start;
+
+		if(this.timeoutTimer !=3D null) {
+			clearTimeout(this.timeoutTimer);
+		}
+
+		var res =3D this.getEmptyRes();
+		if(this.xmlHttp.status =3D=3D 200 && this.xmlHttp.statusText =3D=3D =
+"OK") {
+			res =3D this.createResponse(res);
+		} else {
+			res =3D this.createResponse(res, true);
+			res.error =3D =
+{Message:this.xmlHttp.statusText,Type:"ConnectFailure",Status:this.xmlHtt=
+p.status};
+		}
+	=09
+		this.endRequest(res);
+	},
+	createResponse: function(r, noContent) {=09
+		if(!noContent) {
+			var responseText =3D "" + this.xmlHttp.responseText;
+
+			if(AjaxPro.cryptProvider !=3D null && typeof AjaxPro.cryptProvider =
+=3D=3D "function") {
+				responseText =3D AjaxPro.cryptProvider.decrypt(responseText);
+			}
+
+			if(this.xmlHttp.getResponseHeader("Content-Type") =3D=3D "text/xml") =
+{
+				r.value =3D this.xmlHttp.responseXML;
+			} else {
+				if(responseText !=3D null && responseText.trim().length > 0) {
+					r.json =3D responseText;
+					eval("r.value =3D " + responseText + "*" + "/");
+				}
+			}
+		}
+		/* if(this.xmlHttp.getResponseHeader("X-" + AjaxPro.ID + "-Cache") =
+=3D=3D "server") {
+			r.isCached =3D true;
+		} */
+		return r;
+	},
+	timeout: function() {
+		this.duration =3D new Date().getTime() - this.__start;
+		var r =3D this.onTimeout(this.duration, this);
+		if(typeof r =3D=3D "undefined" || r !=3D false) {
+			this.abort();
+		} else {
+			this.timeoutTimer =3D setTimeout(this.timeout.bind(this), =
+AjaxPro.timeoutPeriod);
+		}
+	},
+	invoke: function(method, args, callback, context) {
+		this.__start =3D new Date().getTime();
+
+		if(this.xmlHttp =3D=3D null) {
+			this.xmlHttp =3D new XMLHttpRequest();
+		}
+
+		this.isRunning =3D true;
+		this.method =3D method;
+		this.args =3D args;
+		this.callback =3D callback;
+		this.context =3D context;
+	=09
+		var async =3D typeof(callback) =3D=3D "function" && callback !=3D =
+AjaxPro.noOperation;
+	=09
+		if(async) {
+			if(MS.Browser.isIE) {
+				this.xmlHttp.onreadystatechange =3D this.doStateChange.bind(this);
+			} else {
+				this.xmlHttp.onload =3D this.doStateChange.bind(this);
+				this.xmlHttp.onerror =3D this.mozerror.bind(this);
+			}
+			this.onLoading(true);
+		}
+	=09
+		var json =3D AjaxPro.toJSON(args) + "";
+		if(AjaxPro.cryptProvider !=3D null) {
+			json =3D AjaxPro.cryptProvider.encrypt(json);
+		}
+	=09
+		this.xmlHttp.open("POST", this.url, async);
+		this.xmlHttp.setRequestHeader("Content-Type", "text/plain; =
+charset=3Dutf-8");
+		this.xmlHttp.setRequestHeader("X-" + AjaxPro.ID + "-Method", method);
+	=09
+		if(AjaxPro.token !=3D null && AjaxPro.token.length > 0) {
+			this.xmlHttp.setRequestHeader("X-" + AjaxPro.ID + "-Token", =
+AjaxPro.token);
+		}
+
+		if(!MS.Browser.isIE) {
+			this.xmlHttp.setRequestHeader("Connection", "close");		// Mozilla Bug =
+#246651
+		}
+
+		this.timeoutTimer =3D setTimeout(this.timeout.bind(this), =
+AjaxPro.timeoutPeriod);
+
+		try{ this.xmlHttp.send(json); }catch(e){}	// IE offline exception
+
+		if(!async) {
+			return this.createResponse({error: null,value: null});
+		}
+
+		return true;=09
+	}
+};
+
+AjaxPro.RequestQueue =3D function(conc) {
+	this.queue =3D [];
+	this.requests =3D [];
+	this.timer =3D null;
+=09
+	if(isNaN(conc)) { conc =3D 2; }
+
+	for(var i=3D0; i<conc; i++) {		// max 2 http connections
+		this.requests[i] =3D new AjaxPro.Request();
+		this.requests[i].callback =3D function(res) {
+			var r =3D res.context;
+			res.context =3D r[3][1];
+
+			r[3][0](res, this);
+		};
+		this.requests[i].callbackHandle =3D =
+this.requests[i].callback.bind(this.requests[i]);
+	}
+};
+
+AjaxPro.RequestQueue.prototype =3D {
+	process: function() {
+=09
+		this.timer =3D null;
+		if(this.queue.length =3D=3D 0) {
+			return;
+		}
+		for(var i=3D0; i<this.requests.length && this.queue.length > 0; i++) {
+			if(this.requests[i].isRunning =3D=3D false) {
+				var r =3D this.queue.shift();
+
+				this.requests[i].url =3D r[0];
+				this.requests[i].onLoading =3D r[3].length >2 && r[3][2] !=3D null =
+&& typeof r[3][2] =3D=3D "function" ? r[3][2] : AjaxPro.onLoading;
+				this.requests[i].onError =3D r[3].length >3 && r[3][3] !=3D null && =
+typeof r[3][3] =3D=3D "function" ? r[3][3] : AjaxPro.onError;
+				this.requests[i].onTimeout =3D r[3].length >4 && r[3][4] !=3D null =
+&& typeof r[3][4] =3D=3D "function" ? r[3][4] : AjaxPro.onTimeout;
+				this.requests[i].onStateChanged =3D r[3].length >5 && r[3][5] !=3D =
+null && typeof r[3][5] =3D=3D "function" ? r[3][5] : =
+AjaxPro.onStateChanged;
+
+				this.requests[i].invoke(r[1], r[2], this.requests[i].callbackHandle, =
+r);
+				r =3D null;
+			}
+		}
+		if(this.queue.length > 0 && this.timer =3D=3D null) {
+			this.timer =3D setTimeout(this.process.bind(this), 0);
+		}
+	},
+	add: function(url, method, args, e) {
+
+// txt +=3D "\r\nqueue.add " + (new Date().getTime() - ss);
+
+		this.queue.push([url, method, args, e]);
+/*	=09
+		if(this.timer =3D=3D null) {
+			this.timer =3D setTimeout(this.process.bind(this), 0);
+		}
+*/
+		this.process();
+	},
+	abort: function() {
+		this.queue.length =3D 0;
+		if (this.timer !=3D null) {
+			clearTimeout(this.timer);
+		}
+		this.timer =3D null;
+		for(var i=3D0; i<this.requests.length; i++) {
+			if(this.requests[i].isRunning =3D=3D true) {
+				this.requests[i].abort();
+			}
+		}
+	},
+	dispose: function() {
+		for(var i=3D0; i<this.requests.length; i++) {
+			var r =3D this.requests[i];
+			r.dispose();
+		}
+		this.requests.clear();
+	}
+};
+
+AjaxPro.queue =3D new AjaxPro.RequestQueue(2);	// 2 http connections
+
+AjaxPro.AjaxClass =3D function(url) {
+	this.url =3D url;
+};
+
+AjaxPro.AjaxClass.prototype =3D {
+	invoke: function(method, args, e) {
+=09
+		if(e !=3D null) {
+			if(e.length !=3D 6) {
+				for(;e.length<6;) { e.push(null); }
+			}
+			if(e[0] !=3D null && typeof(e[0]) =3D=3D "function") {
+				return AjaxPro.queue.add(this.url, method, args, e);
+			}
+		}
+		var r =3D new AjaxPro.Request();
+		r.url =3D this.url;
+		return r.invoke(method, args);
+	}
+};
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/ajaxpro/converter.ashx
+
+//--------------------------------------------------------------
+// Copyright (C) 2006 Michael Schwarz (http://www.ajaxpro.info).
+// All rights reserved.
+//--------------------------------------------------------------
+// Converter.js
+
+// NameValueCollectionConverter
+if(typeof Ajax =3D=3D "undefined") Ajax=3D{};
+if(typeof Ajax.Web =3D=3D "undefined") Ajax.Web=3D{};
+if(typeof Ajax.Web.NameValueCollection =3D=3D "undefined") =
+Ajax.Web.NameValueCollection=3D{};
+
+Ajax.Web.NameValueCollection =3D function(items) {
+	this.__type =3D "System.Collections.Specialized.NameValueCollection";
+	this.keys =3D [];
+	this.values =3D [];
+
+	if(items !=3D null && !isNaN(items.length)) {
+		for(var i=3D0; i<items.length; i++)
+			this.add(items[i][0], items[i][1]);
+	}
+};
+Object.extend(Ajax.Web.NameValueCollection.prototype, {
+	add: function(k, v) {
+		if(k =3D=3D null || k.constructor !=3D String || v =3D=3D null || =
+v.constructor !=3D String)
+			return -1;
+		this.keys.push(k);
+		this.values.push(v);
+		return this.values.length -1;
+	},
+	containsKey: function(key) {
+		for(var i=3D0; i<this.keys.length; i++) {
+			if(this.keys[i] =3D=3D key) return true;
+		}
+		return false;
+	},
+	getKeys: function() {
+		return this.keys;
+	},
+	getValue: function(k) {
+		for(var i=3D0; i<this.keys.length && i<this.values.length; i++) {
+			if(this.keys[i] =3D=3D k) return this.values[i];
+		}
+		return null;
+	},
+	setValue: function(k, v) {
+		if(k =3D=3D null || k.constructor !=3D String || v =3D=3D null || =
+v.constructor !=3D String)
+			return -1;
+		for(var i=3D0; i<this.keys.length && i<this.values.length; i++) {
+			if(this.keys[i] =3D=3D k) this.values[i] =3D v;
+			return i;
+		}
+		return this.add(k, v);
+	},
+	toJSON: function() {
+		return =
+AjaxPro.toJSON({__type:this.__type,keys:this.keys,values:this.values});
+	}
+}, true);
+
+// DataSetConverter
+if(typeof Ajax =3D=3D "undefined") Ajax=3D{};
+if(typeof Ajax.Web =3D=3D "undefined") Ajax.Web=3D{};
+if(typeof Ajax.Web.DataSet =3D=3D "undefined") Ajax.Web.DataSet=3D{};
+
+Ajax.Web.DataSet =3D function(t) {
+	this.__type =3D "System.Data.DataSet,System.Data";
+	this.Tables =3D [];
+	this.addTable =3D function(t) {
+		this.Tables.push(t);
+	};
+	if(t !=3D null) {
+		for(var i=3D0; i<t.length; i++) {
+			this.addTable(t[i]);
+		}
+	}
+};
+
+// DataTableConverter
+if(typeof Ajax =3D=3D "undefined") Ajax=3D{};
+if(typeof Ajax.Web =3D=3D "undefined") Ajax.Web=3D{};
+if(typeof Ajax.Web.DataTable =3D=3D "undefined") =
+Ajax.Web.DataTable=3D{};
+
+Ajax.Web.DataTable =3D function(c, r) {
+	this.__type =3D "System.Data.DataTable,System.Data";
+	this.Columns =3D [];
+	this.Rows =3D [];
+	this.addColumn =3D function(name, type) {
+		this.Columns.push({Name:name,__type:type});
+	};
+	this.toJSON =3D function() {
+		var dt =3D {};
+		var i;
+		dt.Columns =3D [];
+		for(i=3D0; i<this.Columns.length; i++)
+			dt.Columns.push([this.Columns[i].Name, this.Columns[i].__type]);
+		dt.Rows =3D [];
+		for(i=3D0; i<this.Rows.length; i++) {
+			var row =3D [];
+			for(var j=3D0; j<this.Columns.length; j++)
+				row.push(this.Rows[i][this.Columns[j].Name]);
+			dt.Rows.push(row);
+		}
+		return AjaxPro.toJSON(dt);
+	};
+	this.addRow =3D function(row) {
+		this.Rows.push(row);
+	};
+	if(c !=3D null) {
+		for(var i=3D0; i<c.length; i++)
+			this.addColumn(c[i][0], c[i][1]);
+	}
+	if(r !=3D null) {
+		for(var y=3D0; y<r.length; y++) {
+			var row =3D {};
+			for(var z=3D0; z<this.Columns.length && z<r[y].length; z++)
+				row[this.Columns[z].Name] =3D r[y][z];
+			this.addRow(row);
+		}
+	}
+};
+
+// IDictionaryConverter
+if(typeof Ajax =3D=3D "undefined") Ajax=3D{};
+if(typeof Ajax.Web =3D=3D "undefined") Ajax.Web=3D{};
+if(typeof Ajax.Web.Dictionary =3D=3D "undefined") =
+Ajax.Web.Dictionary=3D{};
+
+Ajax.Web.Dictionary =3D function(type,items) {
+	this.__type =3D type;
+	this.keys =3D [];
+	this.values =3D [];
+
+	if(items !=3D null && !isNaN(items.length)) {
+		for(var i=3D0; i<items.length; i++)
+			this.add(items[i][0], items[i][1]);
+	}
+};
+Object.extend(Ajax.Web.Dictionary.prototype, {
+	add: function(k, v) {
+		this.keys.push(k);
+		this.values.push(v);
+		return this.values.length -1;
+	},
+	containsKey: function(key) {
+		for(var i=3D0; i<this.keys.length; i++) {
+			if(this.keys[i] =3D=3D key) return true;
+		}
+		return false;
+	},
+	getKeys: function() {
+		return this.keys;
+	},
+	getValue: function(key) {
+		for(var i=3D0; i<this.keys.length && i<this.values.length; i++) {
+			if(this.keys[i] =3D=3D key){ return this.values[i]; }
+		}
+		return null;
+	},
+	setValue: function(k, v) {
+		for(var i=3D0; i<this.keys.length && i<this.values.length; i++) {
+			if(this.keys[i] =3D=3D k){ this.values[i] =3D v; }
+			return i;
+		}
+		return this.add(k, v);
+	},
+	toJSON: function() {
+		return =
+AjaxPro.toJSON({__type:this.__type,keys:this.keys,values:this.values});
+	}
+}, true);
+
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/ajaxpro/Dottext.Web.UI.Controls.RecentComments,Dottext.Web.ashx
+
+if(typeof Dottext =3D=3D "undefined") Dottext=3D{};
+if(typeof Dottext.Web =3D=3D "undefined") Dottext.Web=3D{};
+if(typeof Dottext.Web.UI =3D=3D "undefined") Dottext.Web.UI=3D{};
+if(typeof Dottext.Web.UI.Controls =3D=3D "undefined") =
+Dottext.Web.UI.Controls=3D{};
+if(typeof Dottext.Web.UI.Controls.RecentComments =3D=3D "undefined") =
+Dottext.Web.UI.Controls.RecentComments=3D{};
+Dottext.Web.UI.Controls.RecentComments_class =3D function() {};
+Object.extend(Dottext.Web.UI.Controls.RecentComments_class.prototype, =
+Object.extend(new AjaxPro.AjaxClass(), {
+	BuildRecentComments: function(path) {
+		return this.invoke("BuildRecentComments", {"path":path}, =
+this.BuildRecentComments.getArguments().slice(1));
+	},
+	url: '/ajaxpro/Dottext.Web.UI.Controls.RecentComments,Dottext.Web.ashx'
+}));
+Dottext.Web.UI.Controls.RecentComments =3D new =
+Dottext.Web.UI.Controls.RecentComments_class();
+
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/xml
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://blog.donews.com/ajaxpro/Dottext.Web.UI.Controls.Comments,Dottext.Web.ashx
+
+if(typeof Dottext =3D=3D "undefined") Dottext=3D{};
+if(typeof Dottext.Web =3D=3D "undefined") Dottext.Web=3D{};
+if(typeof Dottext.Web.UI =3D=3D "undefined") Dottext.Web.UI=3D{};
+if(typeof Dottext.Web.UI.Controls =3D=3D "undefined") =
+Dottext.Web.UI.Controls=3D{};
+if(typeof Dottext.Web.UI.Controls.Comments =3D=3D "undefined") =
+Dottext.Web.UI.Controls.Comments=3D{};
+Dottext.Web.UI.Controls.Comments_class =3D function() {};
+Object.extend(Dottext.Web.UI.Controls.Comments_class.prototype, =
+Object.extend(new AjaxPro.AjaxClass(), {
+	BuildComments: function(path) {
+		return this.invoke("BuildComments", {"path":path}, =
+this.BuildComments.getArguments().slice(1));
+	},
+	url: '/ajaxpro/Dottext.Web.UI.Controls.Comments,Dottext.Web.ashx'
+}));
+Dottext.Web.UI.Controls.Comments =3D new =
+Dottext.Web.UI.Controls.Comments_class();
+
+
+------=_NextPart_000_0028_01C94E81.C0837C40
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://ovsmbt.mop.com/ov.js
+
+var _ovCount =3D 'http://tj.itv.mop.com';=0A=
+var _ovUTCPage =3D 'http://ovutc.mop.com/ojs';=0A=
+var _ovRevision =3D "2";=0A=
+var _ovCountPage =3D _ovCount + '/count.php';=0A=
+var _ovIframe =3D 1;=0A=
+var _ovUTC;=0A=
+var _ovDomain =3D '';=0A=
+=0A=
+try{var _ovPageurl =3D escape(top.location.href);var _ovReferer =3D =
+escape(top.document.referrer);}=0A=
+catch(e){ var _ovPageurl =3D escape(location.href);var _ovReferer =3D =
+escape(document.referrer);}=0A=
+=0A=
+var _ovReferer2 =3D escape(document.referrer);=0A=
+=0A=
+try=0A=
+{=0A=
+	if(top.location.href=3D=3Dlocation.href)=0A=
+	{=0A=
+		_ovIframe=3D0;=0A=
+	}=0A=
+}=0A=
+catch(e){};=0A=
+=0A=
+_ovDeleteCookie2('_ovutc');=0A=
+_ovDeleteCookie2('_ourplusFirstTime');=0A=
+_ovDeleteCookie2('_ourplusReturnTime');=0A=
+_ovDeleteCookie2('_ourplusReturnCount');=0A=
+=0A=
+_ovUTC =3D _ovReadCookie('_utc');=0A=
+=0A=
+var re =3D new RegExp('http:\/\/(.+?)\/', 'i');=0A=
+var m =3D re.exec(unescape(_ovPageurl));=0A=
+if(m !=3D null) {=0A=
+	var domain =3D m[1];=0A=
+	var dt =3D domain.split('.');=0A=
+	var dtl =3D dt.length=0A=
+	var root =3D dt[dtl - 1];=0A=
+	=0A=
+	if(root.length =3D=3D 2 && dtl >=3D 3) {=0A=
+		root =3D dt[dtl - 2];=0A=
+		if(root =3D=3D 'org' || root =3D=3D 'com' || root =3D=3D 'net' || root =
+=3D=3D 'edu' ||=0A=
+			root =3D=3D 'mil' || root =3D=3D 'gov') {=0A=
+			if(dtl =3D=3D 3)=0A=
+				_ovDomain =3D dt[dtl - 3] + '.' + dt[dtl - 2] + '.' + dt[dtl - 1];=0A=
+			else=0A=
+				_ovDomain =3D '.' + dt[dtl - 3] + '.' + dt[dtl - 2] + '.' + dt[dtl - =
+1];=0A=
+			}=0A=
+		else=0A=
+			_ovDomain =3D '.' + dt[dtl - 2] + '.' + dt[dtl - 1];=0A=
+	} else {=0A=
+		if (dtl =3D=3D 2) =0A=
+			_ovDomain =3D dt[dtl - 2] + '.' + dt[dtl - 1];=0A=
+		else=0A=
+			_ovDomain =3D '.' + dt[dtl - 2] + '.' + dt[dtl - 1];=0A=
+	}=0A=
+}=0A=
+=0A=
+_ovDeleteCookie3('_ovutc', _ovDomain);=0A=
+=0A=
+if(_ovUTC =3D=3D '') {=0A=
+	_ovUTC =3D _ovRandomString(6);=0A=
+	_ovWriteCookie2('_utc', _ovUTC, _ovDomain, 720);=0A=
+}=0A=
+=0A=
+var _ovCountUrl =3D _ovCountPage=0A=
++ '?source=3Dmoptj'=0A=
++ '&pageurl=3D' + _ovPageurl=0A=
++ '&referer=3D' + _ovReferer=0A=
++ '&iframe=3D' + _ovIframe;=0A=
+=0A=
+if(window.utmack)=0A=
+{=0A=
+        _ovCountUrl =3D _ovCountUrl+"&utmack=3D"+utmack;=0A=
+}=0A=
+=0A=
+document.write("<script src=3D'" + _ovCountUrl + "'></script>");=0A=
+=0A=
+var _ovUTCUrl =3D _ovUTCPage=0A=
+	+ '?S=3Dovutc'             // Source=0A=
+	+ '&U=3D' + _ovPageurl     // Pageurl=0A=
+	+ '&R=3D' + _ovReferer2    // Referrer=0A=
+	+ '&I=3D' + _ovUTC         // User tracker id=0A=
+	+ '&now=3D' +_ovGetTime()  // Current click time=0A=
+	+ '&if=3D' + _ovIframe     // iFrame flags=0A=
+	+ '&r=3D' + _ovRevision;   // Revision=0A=
+=0A=
+//document.write("<script src=3D'" + _ovUTCUrl + "'></script>");=0A=
+=0A=
+function _pad(num, len)=0A=
+{=0A=
+	for(var i =3D 1; i <=3D len; i++)=0A=
+		if (num < Math.pow(10, i))=0A=
+			return new Array(len -i + 1).join(0) + num;=0A=
+	return num;=0A=
+}=0A=
+=0A=
+=0A=
+function _ovGetTime()=0A=
+{=0A=
+	cur =3D new Date();=0A=
+	return _pad(cur.getYear(), 4) +=0A=
+		_pad(cur.getMonth() + 1, 2) +=0A=
+		_pad(cur.getDate(), 2) + '-' +=0A=
+		_pad(cur.getHours(), 2) +=0A=
+		_pad(cur.getMinutes(), 2) +=0A=
+		_pad(cur.getSeconds(), 2);=0A=
+}=0A=
+=0A=
+=0A=
+function getTime() =0A=
+{ =0A=
+	now =3D new Date(); =0A=
+	year=3Dnow.getYear();=0A=
+	Month=3Dnow.getMonth()+1;=0A=
+	Day=3Dnow.getDate();=0A=
+	Hour=3Dnow.getHours(); =0A=
+	Minute=3Dnow.getMinutes(); =0A=
+	Second=3Dnow.getSeconds(); =0A=
+	return year+"-"+Month+"-"+Day+"-"+Hour+"-"+Minute+"-"+Second;=0A=
+}=0A=
+=0A=
+function _ovReadCookie(name)=0A=
+{=0A=
+  var cookieValue =3D "";=0A=
+  var search =3D name + "=3D";=0A=
+  if(document.cookie.length > 0)=0A=
+  { =0A=
+    offset =3D document.cookie.indexOf(search);=0A=
+    if (offset !=3D -1)=0A=
+    { =0A=
+      offset +=3D search.length;=0A=
+      end =3D document.cookie.indexOf(";", offset);=0A=
+      if (end =3D=3D -1) end =3D document.cookie.length;=0A=
+      cookieValue =3D unescape(document.cookie.substring(offset, end))=0A=
+    }=0A=
+  }=0A=
+  return cookieValue;=0A=
+}=0A=
+=0A=
+=0A=
+function _ovWriteCookie2(name, value, domain, hours)=0A=
+{=0A=
+	var expire =3D "";=0A=
+	if(hours !=3D null) {=0A=
+		expire =3D new Date((new Date()).getTime() + hours * 3600000);=0A=
+		expire =3D "; expires=3D" + expire.toGMTString();=0A=
+	}=0A=
+	document.cookie =3D name + "=3D" + escape(value) + expire + "; =
+domain=3D" + domain + "; path=3D/;";=0A=
+}=0A=
+=0A=
+function _ovWriteCookie(name, value, hours)=0A=
+{=0A=
+  var expire =3D "";=0A=
+  if(hours !=3D null)=0A=
+  {=0A=
+    expire =3D new Date((new Date()).getTime() + hours * 3600000);=0A=
+    expire =3D "; expires=3D" + expire.toGMTString();=0A=
+  }=0A=
+  document.cookie =3D name + "=3D" + escape(value) + expire + " =
+domain=3D; " + "path=3D/;";=0A=
+}=0A=
+=0A=
+function _ovDeleteCookie3(name, domain) {=0A=
+	document.cookie =3D name + "=3D; domain=3D" + domain +"; path=3D/; =
+expires=3DThu, 01-Jan-1970 00:00:01 GMT;";=0A=
+}=0A=
+=0A=
+function _ovDeleteCookie2(name) {=0A=
+	document.cookie =3D name + "=3D; domain=3D; path=3D/; expires=3DThu, =
+01-Jan-1970 00:00:01 GMT;";=0A=
+}=0A=
+=0A=
+function _ovRandomString(length)=0A=
+{=0A=
+	var chars =3D =
+'0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';=0A=
+	var rstr =3D '';=0A=
+	for(var i =3D 0; i < length; i++) {=0A=
+		var rnum =3D Math.floor(Math.random() * chars.length);=0A=
+		rstr +=3D chars.substring(rnum, rnum + 1);=0A=
+	}=0A=
+	return rstr;=0A=
+}=0A=
+
+------=_NextPart_000_0028_01C94E81.C0837C40--
